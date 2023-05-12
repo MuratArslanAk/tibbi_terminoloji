@@ -1,0 +1,3126 @@
+{
+  "words":
+  [
+    {
+        "terim": "ABDOMEN",
+        "turkishMeaning": " Karın, batin.",
+        "english": ""
+    },
+    {
+        "terim": "ABORTUS",
+        "turkishMeaning": " Çocuk düşürme, düşük.",
+        "english": ""
+    },
+    {
+        "terim": "ABSANS",
+        "turkishMeaning": " Kısa süreli şuur kaybı.",
+        "english": ""
+    },
+    {
+        "terim": "ABSE",
+        "turkishMeaning": " Çevre dokulardan kese tarzinda doku ile sinirli içerisi cerahat ile dolu oluşum.",
+        "english": ""
+    },
+    {
+        "terim": "ABSORBSIYON",
+        "turkishMeaning": " Emilme, örn.sindirim, gıdaların barsaklarda absorbsiyonudur denilebilir.",
+        "english": ""
+    },
+    {
+        "terim": "ADRENALIN",
+        "turkishMeaning": " Böbreküstü bezlerinin iç kısımları tarafından salgılanan bir hormondur. Tabiatta bu hormonun görevi, organizmayi acil harekete hazirlamaktir ve etkisini, nabzin atisi, kanin iç organlar ve deriden kaslara sevk edilmesi, karacigerdeki glikojenin glikoza degismesi ve böylelikle acil bir enerji kaynagi saglanmasi seklinde gösterir.",
+        "english": ""
+    },
+    {
+        "terim": "AFAKI",
+        "turkishMeaning": " Gözde, lensin olmamasi.",
+        "english": ""
+    },
+    {
+        "terim": "AFAZI",
+        "turkishMeaning": " Beyindeki ilgili alanlarin tahribi sonucu, konusma veya konusulani anlama yeteneginin kaybi. Disfazi, ayni durumun daha hafif bir formudur.",
+        "english": ""
+    },
+    {
+        "terim": "AFRODIZYAK",
+        "turkishMeaning": " Cinsi arzuyu artirici maddeler, ilaçlara verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "AFONI",
+        "turkishMeaning": " Ses kaybi. Kismi veya tam olabilir. Afoni sebepleri, genellikle konusma kaslarini kontrol eden sinirlerin hastaligi veya zedelenmesi, bogaz, girtlak hastaliklari veya nörozdur. Histerik afoninin nedeni, suuralti, hiç konusamamak veya özel bir durumda konusmamamk arzusudur.",
+        "english": ""
+    },
+    {
+        "terim": "AGLÜTINASYON",
+        "turkishMeaning": " Sivi bir süspansiyonda, ufak cisimciklerin bir araya gelip birbirlerine yapismasidir.",
+        "english": ""
+    },
+    {
+        "terim": "AGORAFOBI",
+        "turkishMeaning": " Genis, açik bir sahada yalniz kalinca hissedilen, kontrol edilemeyen bir korkudur.",
+        "english": ""
+    },
+    {
+        "terim": "AJITASYON",
+        "turkishMeaning": " Kisinin etrafa saldirganligi, asiri aktivitesi ile karakterize durum.",
+        "english": ""
+    },
+    {
+        "terim": "AJITE",
+        "turkishMeaning": " Rahatsiz, huzursuz, taskinlik yapan.",
+        "english": ""
+    },
+    {
+        "terim": "AKNE",
+        "turkishMeaning": " Yüz, omuzlar, sirt ve gögüsteki yag bezleriyle ilgili kronik bir deri hastaligidir. En çok 14-20 yaslar arasinda görülür ve bu hastaligin tipik belirtileri olan siyah noktalar, sivilceler, gençlerin bu en hassas devirlerinde genellikle psikolojik rahatsizliklara yol açar. Yag bezlerinin kanalinda bir tikaç olusur ve bu tikacin basi sertlesip siyahlasir. Bazen, kanal tikali oldugu halde, bez yag salgilamaya devam eder ve böylece içi yag dolu bir kist olusur. Siyah noktalara tipta komedon adi verilir.",
+        "english": ""
+    },
+    {
+        "terim": "AKONDROPLAZI",
+        "turkishMeaning": " Tedavisi olmayan, sebebi bilinmeyen kalitsal bir cücelik tipidir. Gövde normal büyüklüte olup, kol ve bacaklar anormal derecede kisa ve bas normalden büyüktür.",
+        "english": ""
+    },
+    {
+        "terim": "AKKOMODASYON",
+        "turkishMeaning": " Gözün optik sisteminin çesitli uzakliklara uyum yaparak net görmenin saglanmasi.",
+        "english": ""
+    },
+    {
+        "terim": "AKROMEGALI",
+        "turkishMeaning": " Beyin tabaninda bulunan hipofiz bezinin ön bölümünün asiri çalismasina bagli bir durumdur. Büyüme tamamlanmadan, kemiklerin uzamasi sona ermeden erken çaglarda bas gösterirse jigantism adi verilen dev görünüm olusur. Bozukluk büyüme çaginin bitiminden sonra bas gösterirse, el ve ayaklarin genislemesi, çene ve burnun büyümesi ve sesin kalinlastigi görülür.",
+        "english": ""
+    },
+    {
+        "terim": "AKUSTIK SINIR",
+        "turkishMeaning": " Isitme siniri.",
+        "english": ""
+    },
+    {
+        "terim": "AMBLIYOPI",
+        "turkishMeaning": " Gözde belirli bir bozukluk olmaksizin olusan görme tembelligi.",
+        "english": ""
+    },
+    {
+        "terim": "AMNEZI",
+        "turkishMeaning": " Hafizanin kismen veya tamamen kaybolmasi.",
+        "english": ""
+    },
+    {
+        "terim": "ANALJEZIK",
+        "turkishMeaning": " Agri kesici.",
+        "english": ""
+    },
+    {
+        "terim": "ANEMI",
+        "turkishMeaning": " Kisaca, halk arasinda kansizlik olarak bilinen anemi, alyuvarlarin sayi olarak az olmasi ve alyuvarlarin içerisinde bulunan hemoglobin adi verilen maddenin miktarinin azligidir.",
+        "english": ""
+    },
+    {
+        "terim": "ANEMIK",
+        "turkishMeaning": " Kan degerleri düsük olan, yani kan sayiminda eritrosit sayilari ve hemoglobin miktari düsük olan kisi.",
+        "english": ""
+    },
+    {
+        "terim": "ANERJI",
+        "turkishMeaning": " Özel bir antijene cevap verilmemesi hali. Organizmanin savunma yeteneginin kaybolmasi.",
+        "english": ""
+    },
+    {
+        "terim": "ANESTEZI",
+        "turkishMeaning": " Doktorlar, ameliyat sirasinda agri duymamasi için, ameliyattan önce hastaya bir igne yapar ya da solunum yoluyla bir gaz verirler. Hastanin bilincini yitirerek uykuya geçmesine narkoz, böylece vücudundaki agrilari duyamayacak duruma gelmesine anestezi, bu duyu yitimine yol açan maddelere de anestezik denir.",
+        "english": ""
+    },
+    {
+        "terim": "ANKSIETE",
+        "turkishMeaning": " Iç sikintisi, iç daralmasi.",
+        "english": ""
+    },
+    {
+        "terim": "ANOSMI",
+        "turkishMeaning": " Koku alamama, nezle grip gibi enfeksiyonlarda olabildigi gibi koku siniri ile ilgili beyin bölgesindeki patolojilerde de görülebilir.",
+        "english": ""
+    },
+    {
+        "terim": "ANOREKSI",
+        "turkishMeaning": " Anorexia Nervosa, özellikle genç kadinlarda görülebilen, yemek yememek, çok az uyumak, buna ragmen çok aktif olmakla beliren psikolojik bir bozukluktur. Bu durum genellikle kisinin çok sismanladigi kanisi ile mübalagali bir sekilde rejim uygulamasi ile baslar, önceleri kontrol edilebilen istah bir süre sonra hakikaten yok olur ve zayiflama normal ölçüleri asar.",
+        "english": ""
+    },
+    {
+        "terim": "ANSEFALIT",
+        "turkishMeaning": " Beyin iltihabi.",
+        "english": ""
+    },
+    {
+        "terim": "ANTIENFLAMATUAR",
+        "turkishMeaning": " Iltihabi reaksiyonu önleyen madde, ilaç.",
+        "english": ""
+    },
+    {
+        "terim": "ANTISEPTIK",
+        "turkishMeaning": " Mikroplari, yani insan, hayvan ve bitkilerin dokularina yerleserek hastaliga yol açan bakteri, virüs, mantar gibi tek hücreli asalak canlilari yok etmek saglikli yasamin temel kosullarindan biridir. Antiseptik, antibiyotik ve dezenfektan gibi degisik adlarla anilan birçok madde bu amaçla gelistirilmistir. Ama genel olarak \"\"mikrop\"\" öldürücüler denen bütün bu maddelerin bazi özellikleri ve kullanimlari farklidir.\"",
+        "english": ""
+    },
+    {
+        "terim": "ANTISEPTIKLERIN TARIHI",
+        "turkishMeaning": " Insanlar, \"\"mikrop kuraminin\"\" bulunmasindan yüzyillarca önce neden ve nasil etki yaptigini bilmeksizin antiseptikleri kullaniyorlardi. Örnegin çig etin bol tuz ve baharatla yogrularak sucuk biçiminde saklanmasi, sebzelerin yogun bir tuz ve limon ya da sirke çözeltisi içinde bekletilerek tursu yapilmasi, bakterileri büyük ölçüde yok ederek bu besinlerin bozulmasini önlüyordu. Bugünkü antiseptikler ise Louis Pasteur'ün degerli çalismalarinin ürünüdür.\"",
+        "english": ""
+    },
+    {
+        "terim": "ANTISEPTIKLER NASIL ETKI YAPAR?",
+        "turkishMeaning": " Kimyasal antiseptiklerin mikroplar üzerinde nasil etkili olduklari tam olarak açiklanamamistir. Bu maddeler dogrudan dogruya mikrop hücresine girerek yasamsal islevlerini engelleyebilecegi gibi, mikrop hücresinin dis zarini eriterek de yikici etki gösterebilir. Ne var ki birçok antiseptik normal hücreler üzerinde de ayn etkiyi yapar. Bu yüzden bu maddelerin dikkatli kullanilmasi gerekir. Bazi antiseptikler agizdan alindiginda ya da vücuda siringa edildiginde agir sonuçlara, hatta ölüme yol açabilir.",
+        "english": ""
+    },
+    {
+        "terim": "ANTISPAZMODIK",
+        "turkishMeaning": " Spazm çözücü, daha çok iç organlardaki düz kaslarin kasilmalarini çözen ilaç grubuna verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "ANTISTATIK",
+        "turkishMeaning": " Statik elektrik birikimini önleyen madde.",
+        "english": ""
+    },
+    {
+        "terim": "ANTITOKSIK",
+        "turkishMeaning": " Toksin giderici.",
+        "english": ""
+    },
+    {
+        "terim": "ANTITÜSSIF",
+        "turkishMeaning": " Öksürük giderici.",
+        "english": ""
+    },
+    {
+        "terim": "ANTIVIRAL",
+        "turkishMeaning": " Virüslara etkili, viruslarin zararli etkilerini önleyen.",
+        "english": ""
+    },
+    {
+        "terim": "ANÜLER",
+        "turkishMeaning": " Halka seklinde.",
+        "english": ""
+    },
+    {
+        "terim": "ANÜRI",
+        "turkishMeaning": " Idrar çikaramama.",
+        "english": ""
+    },
+    {
+        "terim": "ANÜS",
+        "turkishMeaning": " Makat, sindirim kanalinin bitis kismi.",
+        "english": ""
+    },
+    {
+        "terim": "AORTA",
+        "turkishMeaning": " Kalpten çikan, vücudun en büyük damari, kalpten çiktiktan sonraki kavisli bölümüne arcus aorta, gögüs kafesi içersinde seyreden kismina torasik aorta ve karin içersinde seyreden bölümüne de abdominal aorta denir.",
+        "english": ""
+    },
+    {
+        "terim": "AORTIK ANEVRIZMA",
+        "turkishMeaning": " Aort damarinin her hangi bir bölümünde görülen genisleme.",
+        "english": ""
+    },
+    {
+        "terim": "APANDISIT",
+        "turkishMeaning": " Kör barsak (apendiks) iltihabi.",
+        "english": ""
+    },
+    {
+        "terim": "APATI",
+        "turkishMeaning": " Çevre ile anormal derecede ilgisizlik, duygusuzluk, kayitsizlik.",
+        "english": ""
+    },
+    {
+        "terim": "APEKS",
+        "turkishMeaning": " Uç, tepe, zirve.",
+        "english": ""
+    },
+    {
+        "terim": "APIROJEN",
+        "turkishMeaning": " Ates yükselmesine neden olan herhangi bir madde tasimayan.",
+        "english": ""
+    },
+    {
+        "terim": "APNE",
+        "turkishMeaning": " Solunumun geçici bir zaman içinde durmasi.",
+        "english": ""
+    },
+    {
+        "terim": "APOPLEKSI",
+        "turkishMeaning": " Felç, inme.",
+        "english": ""
+    },
+    {
+        "terim": "ARAKNOIT",
+        "turkishMeaning": " Beynin üzerinin örten ince zar.",
+        "english": ""
+    },
+    {
+        "terim": "ASETABULUM",
+        "turkishMeaning": " Uyluk kemiginin basinin, kalça kemigi ile eklem yaptigi çukurluk",
+        "english": ""
+    },
+    {
+        "terim": "ASETILSALISILIK ASIT",
+        "turkishMeaning": " Yaygin olarak kullanilan ve bilinen aspirinin kimyasal adi.",
+        "english": ""
+    },
+    {
+        "terim": "ASIDOZ",
+        "turkishMeaning": " Organizmanin asit baz dengesinde asit istikametinde bozulma sonucu ortaya çikan entoksikasyon tablosu.",
+        "english": ""
+    },
+    {
+        "terim": "ASO",
+        "turkishMeaning": "\" \"\"Antistreptolizin O\"\" için kullanilan kisaltma. Streptolizin, \"\"Hemolitik Streptokok\"\" adi verilen bakterilerin salgiladigi toksinin adidir. Bu toksinin varligini tespit için yapilan tetkike de kisaca ASO adi verilir. ASO, romatizma gibi bazi Hemolitik Streptokok enfeksiyonlarinda yükselir bu açidan teshis te ASO degerleri önem tasir.\"",
+        "english": ""
+    },
+    {
+        "terim": "ASTHMA",
+        "turkishMeaning": " Astim. Bkz. Detayli Bilgi",
+        "english": ""
+    },
+    {
+        "terim": "ASIL TENDONU",
+        "turkishMeaning": " Baldir arka kismindaki kas grubunun, topuk kemigine birlesmesini ve ayagin asagi yukari hareketini saglayan yapi(kiris).",
+        "english": ""
+    },
+    {
+        "terim": "ATROPIN",
+        "turkishMeaning": " Belladonna (Güzel Avrat Otu) adli bitkiden elde edilen bir alkaloiddir. Tipta çok degisik kullanim alanlari vardir. Örnegin, göz dibinin muayenesinde, göz bebeginin genisletilmesi için, ayrica anesteziden önce üst solunum yollarinda salgilarin azaltilmasi için kullanilir.",
+        "english": ""
+    },
+    {
+        "terim": "BAĞIŞIKLIK",
+        "turkishMeaning": " Belirli bir mikroorganizmaya karşı vücudun direncidir. Aktif ve pasif olmak üzere iki tip bağışıklık (immünite) vardır. Aktif immünite, hastalığın, çok hafif de olsa, bizzat geçirilmesiyle oluşur. Hastalığa neden olan organizmalar, vücutta antikor reaksiyonları uyandırırlar ve bu reaksiyonlar, bazı vakalarda, hayat boyu devam eder. Pasif immünite ise, antikor reaksiyonu uyandırıcak nitelikte, fakat kuvveti azaltılmış veya değiştirilmiş olan mikropların vücuda aşılanmasıyla oluşur.",
+        "english": ""
+    },
+    {
+        "terim": "BAKTERİ",
+        "turkishMeaning": " Tek hücreli mikroorganizmalardır. Bunlar, mantarlardan küçük, fakat virüslerden büyüktürler. Bazıları hastalık yapıcı, bazıları zararsızdır; bazı bakteriler ise, faydalıdırlar",
+        "english": ""
+    },
+    {
+        "terim": "BAKTERİEMİ",
+        "turkishMeaning": " Bakterilerin veya bakteri toksinlerinin kana geçmesiyle oluşan ateş, titreme ile seyreden klinik tablonun adıdır. Eş anlamlı olarak septisemi de kullanılır.",
+        "english": ""
+    },
+    {
+        "terim": "BALLİSMUS",
+        "turkishMeaning": "\" Kol ve bacakların, istemsiz, şiddetli, atıcı hareketleridir. Bu durum, gövdenin yarısında görüldüğü takdirde, \"\"hemiballismus\"\" adını alır.\"",
+        "english": ""
+    },
+    {
+        "terim": "BANDAJ",
+        "turkishMeaning": " Yara sarmaya veya yaraları kapatan gazları ve tespit edici tahtaları yerinde tutmaya yarayan kumaş parçasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "BARBİTÜRAT'LAR",
+        "turkishMeaning": " Sinir sistemini uyuşturucu etkileri olan maddelerdir.",
+        "english": ""
+    },
+    {
+        "terim": "BASİL",
+        "turkishMeaning": " Çomak şeklindeki mikroorganizmalardır. Örneğin Tüberküloz'un etkeni Koch adı verilen basildir.",
+        "english": ""
+    },
+    {
+        "terim": "BAZAL METABOLİZMA",
+        "turkishMeaning": " Vücut yüzeyi birimine göre hesap edilen, istirahat anında sarf edilen enerji miktarıdır.Vücut yüzeyi şahsın, boyu ve kilosundan hesap edilir.Troid bezinin fazla çalışmasında, bazal metabolizma yükselir.",
+        "english": ""
+    },
+    {
+        "terim": "BATIN",
+        "turkishMeaning": " Gövdenin, göğüs ve pelvis bölgeleri arasındaki kısmıdır. Göğüsten, bir kas bölme teşkil eden diafragma ile ayrılmış olan batının, alt kısmında pelvis boşluğu ile devamlılığı vardır.",
+        "english": ""
+    },
+    {
+        "terim": "BELL PARALİZİ",
+        "turkishMeaning": " Yüz siniri felcidir.",
+        "english": ""
+    },
+    {
+        "terim": "BENCE-JONES PROTEİNİ",
+        "turkishMeaning": " Myelomatosis gibi kemik iliğini ilgilendiren hastalıklarda, idrarla çıkartılan bir cins protein.",
+        "english": ""
+    },
+    {
+        "terim": "BERİBERİ",
+        "turkishMeaning": " B vitamini noksanlığında meydana gelen ağır bir polinevrit.",
+        "english": ""
+    },
+    {
+        "terim": "BİKONKAV",
+        "turkishMeaning": " Her iki yüzeyide konkav, iç bükey veya oyuk olan.",
+        "english": ""
+    },
+    {
+        "terim": "BİFİD",
+        "turkishMeaning": " İki bölüme ayrılmış durumda olan, çatallı, yarık.",
+        "english": ""
+    },
+    {
+        "terim": "BİFURKASYON",
+        "turkishMeaning": " İki dala ayrılma yeri.",
+        "english": ""
+    },
+    {
+        "terim": "BİLATERAL",
+        "turkishMeaning": " Her iki tarafa ait olan, iki taraflı.",
+        "english": ""
+    },
+    {
+        "terim": "BİLÜRİBİN",
+        "turkishMeaning": " Hemoglobinin yıkılmasından açığa çıkan kırmızı boya.",
+        "english": ""
+    },
+    {
+        "terim": "BİLÜRİBİNEMİ",
+        "turkishMeaning": " Kanda bilüribinin artması.",
+        "english": ""
+    },
+    {
+        "terim": "BİOPSİ",
+        "turkishMeaning": " Canlı bir dokudan muayene edilmek üzere küçük bir parça alınması.",
+        "english": ""
+    },
+    {
+        "terim": "BİSEKSÜEL",
+        "turkishMeaning": " İki cinsiyetli, hem erkek hem dişi.",
+        "english": ""
+    },
+    {
+        "terim": "BİLEFARİT",
+        "turkishMeaning": " Göz kapaklarının, özellikle kenar bölümlerinin iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "BONE",
+        "turkishMeaning": " Kemik.",
+        "english": ""
+    },
+    {
+        "terim": "BOTULİSMUS",
+        "turkishMeaning": " Basillus Botulismus toksinleri ile meydana gelen zehirlenme.",
+        "english": ""
+    },
+    {
+        "terim": "BRAKİYALJİ",
+        "turkishMeaning": " Kol ağrısı.",
+        "english": ""
+    },
+    {
+        "terim": "BRADİKARDİ",
+        "turkishMeaning": " Kalbin dakikadaki atım sayısının azalması.",
+        "english": ""
+    },
+    {
+        "terim": "BRONCHİOLİTİS",
+        "turkishMeaning": " Solunum sisteminin en küçük fonksiyonel üniteleri olan bronşiollerin iltihabına denir.",
+        "english": ""
+    },
+    {
+        "terim": "BÜL",
+        "turkishMeaning": " Ciltte içi sıvı dolu kabarık oluşumlar. Çapları 0.5 cm'den büyüktür. Küçük olanlarına vezikül denir. Bkz. Resim - Vezikül",
+        "english": ""
+    },
+    {
+        "terim": "BÜLLÖZ",
+        "turkishMeaning": " Büllerden oluşan lezyon.",
+        "english": ""
+    },
+    {
+        "terim": "CADUCEUS",
+        "turkishMeaning": " Mitolojide Tanrı'nın habercisi olan Merkür'ün asasıdır. ABD ordusu tıp mensuplarının sembolü olup, tıp biliminin sembolü olan Eskülap asaından farklıdır. Merkür asaının çevresinde iki yılan vardır, Eskülap'ta ise, bir yılan bulunur.",
+        "english": ""
+    },
+    {
+        "terim": "CAISSON HASTALIĞI",
+        "turkishMeaning": " Vurgun. Dalgıçlarda ve çok yükselen havacılarda atmosfer basıncının ani değişimlerine bağlı olarak meydana gelir.",
+        "english": ""
+    },
+    {
+        "terim": "CALCANEUS",
+        "turkishMeaning": " Topuk kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "CANDIDA",
+        "turkishMeaning": " Bir mantar çeşidi.",
+        "english": ""
+    },
+    {
+        "terim": "CERAHAT",
+        "turkishMeaning": " Alyuvarlar, bakteri ve yıkılmış doku kalıntıları gibi iltihap ürünlerini kapsayan doku sıvısıdır.",
+        "english": ""
+    },
+    {
+        "terim": "CERRAHİ",
+        "turkishMeaning": " Tıbbın en eski dallarından biridir. İlaçla ya da başka tedavi yöntemleriyle iyileştirilemeyen hastalıkların, yaralanmaların, vücuttaki yapı bozukluklarının ameliyatla onarılmasına ya da hastalıklı organı kesip çıkararak iyileştirilmesine dayanır.",
+        "english": ""
+    },
+    {
+        "terim": "CERUMEN",
+        "turkishMeaning": " Kulak kiri. İnsan kulağında normal olarak bulunan balmumu kıvamındaki salgıdır. Bu salgının fazlalığı, kulak tıkanması ve geçici sağırlığa yol açar.",
+        "english": ""
+    },
+    {
+        "terim": "CESTODIASIS",
+        "turkishMeaning": " Yassı solucan enfeksiyonudur.",
+        "english": ""
+    },
+    {
+        "terim": "CLAVİCULA",
+        "turkishMeaning": " Köprücük kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "COR",
+        "turkishMeaning": " Kalp.",
+        "english": ""
+    },
+    {
+        "terim": "COXAE",
+        "turkishMeaning": " Kalça kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "ÇEKUM (Caecum)",
+        "turkishMeaning": " İncebarsakla kalınbarsağın birleştiği yerdeki kesedir. Bu bölgede, iltihaplanma, ülserasyon veya kanser görülebilir.",
+        "english": ""
+    },
+    {
+        "terim": "ÇIBAN",
+        "turkishMeaning": " Çıbanlar, derideki ter bezleri veya kıl keselerinin enfeksiyonlarıdır.",
+        "english": ""
+    },
+    {
+        "terim": "ÇİÇEK",
+        "turkishMeaning": " Akut, enfeksiyöz bir hastalıktır. Her yaşta ve her cinsten kişiler bu hastalığa yakalanabilir. İki tipi vardır",
+        "english": ""
+    },
+    {
+        "terim": "ÇİL",
+        "turkishMeaning": " Deride, güneşe maruz kalma sonucu beliren, ufak lekelerdir. Bunlar, daha fazla, lokalize güneş yanıklarına benzetilebilir ve ekseriyetle sarışın veya kızıl saçlılarda görülen melanin pigmenti birikimidir.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOADENİT",
+        "turkishMeaning": " Gözyaşı bezi iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOSİSTİT",
+        "turkishMeaning": " Gözyaşı kesesi iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOSİSTEKTOMİ",
+        "turkishMeaning": " Gözyaşı kesesinin ameliyatla çıkartılması.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOSİSTOGRAFİ",
+        "turkishMeaning": " Kontrast madde verilerek gözyaşı kesesi ve kanalının radyolojik olarak incelenmesi.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOSİSTORİNOSTOMİ",
+        "turkishMeaning": " Gözyaşı kanalının tıkalı olduğu durumlarda uygulanan, kesenin burun boşluğuna diranajını sağlayan ameliyat.",
+        "english": ""
+    },
+    {
+        "terim": "DAKRİYOLİT",
+        "turkishMeaning": " Gözyaşı taşı.",
+        "english": ""
+    },
+    {
+        "terim": "DALTONİZM",
+        "turkishMeaning": " Renk körlüğü.",
+        "english": ""
+    },
+    {
+        "terim": "DEBİLİTE",
+        "turkishMeaning": " Zeka geriliği.",
+        "english": ""
+    },
+    {
+        "terim": "DEFEKASYON",
+        "turkishMeaning": " Dışkının dışarı atılması.",
+        "english": ""
+    },
+    {
+        "terim": "DEFEKT",
+        "turkishMeaning": " Eksiklik, kusur.",
+        "english": ""
+    },
+    {
+        "terim": "DEFİBRİLATÖR",
+        "turkishMeaning": " Kalbin normal dışı hızlı atımını durdurarak tekrar normal kalp ritmine dönmesini sağlayan araç.",
+        "english": ""
+    },
+    {
+        "terim": "DEFLORASYON",
+        "turkishMeaning": " Kızlık zarının yırtılması.",
+        "english": ""
+    },
+    {
+        "terim": "DEFORMİTE",
+        "turkishMeaning": " Şekil bozukluğu.",
+        "english": ""
+    },
+    {
+        "terim": "DEFORMASYON",
+        "turkishMeaning": " Şeklini bozma.",
+        "english": ""
+    },
+    {
+        "terim": "DEKÜBİTİS",
+        "turkishMeaning": " Yatalak olanlarda hareketsizlik sonucu sırtta ve kalçalarda açılan yaralar.",
+        "english": ""
+    },
+    {
+        "terim": "DEKOMPRESYON",
+        "turkishMeaning": " Baskı yapan gücün veya baskının kaldırılması.",
+        "english": ""
+    },
+    {
+        "terim": "DEKONJESSAN",
+        "turkishMeaning": " Konjesyonu (şişme) azaltan, dekonjessif.",
+        "english": ""
+    },
+    {
+        "terim": "DELİRİUM",
+        "turkishMeaning": " Zehirlenmeler, ateşli hastalıklar, epilepsi, histeri ve akıl hastalıklarında görülebilen, titreme, hallüsinasyonlar ve saldırganlıkla birlikte bilincin kaybolması tablosuna verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "DEMONSTRASYON",
+        "turkishMeaning": " Göstererek öğretme.",
+        "english": ""
+    },
+    {
+        "terim": "DEJENERASYON",
+        "turkishMeaning": " Dokuların normal yapılarının bozulup normal fonksiyonlarını yapamıyacak hale gelmeleri.",
+        "english": ""
+    },
+    {
+        "terim": "DEMORALİZASYON",
+        "turkishMeaning": " Moral çöküntü.",
+        "english": ""
+    },
+    {
+        "terim": "DEMİYELİNİZASYON",
+        "turkishMeaning": " Sinir liflerinin etrafını saran myelin tabakasının kaybı.",
+        "english": ""
+    },
+    {
+        "terim": "DANSİMETRE",
+        "turkishMeaning": " Yoğunluk ölçen cihaz.",
+        "english": ""
+    },
+    {
+        "terim": "DEONTOLOJİ",
+        "turkishMeaning": " Aynı meslek grubunda olan insanların birbirleri ile olan ilişkilerinde uyulması öngörülen ahlaki, moral değerler.",
+        "english": ""
+    },
+    {
+        "terim": "DEPİLASYON",
+        "turkishMeaning": " Kılların çıkartılması işlemi.",
+        "english": ""
+    },
+    {
+        "terim": "DEPRESYON",
+        "turkishMeaning": " Ruhsal ve bedensel çöküntü, isteksizlik.",
+        "english": ""
+    },
+    {
+        "terim": "DERMABRAZYON",
+        "turkishMeaning": " Deri üzerindeki benler veya yara izlerini ortadan kaldırma amacı ile yapılan kazıma işlemi.",
+        "english": ""
+    },
+    {
+        "terim": "DERMATİT",
+        "turkishMeaning": " Cildin iltihabi durumu.",
+        "english": ""
+    },
+    {
+        "terim": "DERMATOLOJİ",
+        "turkishMeaning": " Cildiye, cilt hastalıklarını inceleyen bilim dalı.",
+        "english": ""
+    },
+    {
+        "terim": "DERMİS",
+        "turkishMeaning": " Ciltte en üst tabaka olan Epidermis'in altındaki tabakaya dermis adı verilir. Bkz. Lazerle Cilt Tedavisi",
+        "english": ""
+    },
+    {
+        "terim": "DÜŞÜK",
+        "turkishMeaning": " Fetusun, gebeliğin 28. haftasından önce ölümü, ve rahmin dışa atılmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "EDEMA",
+        "turkishMeaning": " Ödem, vücudun her hangi bir yerinde hücre dışında anormal su birikmesi.",
+        "english": ""
+    },
+    {
+        "terim": "E.E.G",
+        "turkishMeaning": " Elektroansefalografi kelimesi için kullanılan kısaltma.",
+        "english": ""
+    },
+    {
+        "terim": "EFFEKT",
+        "turkishMeaning": " Tesir, etki.",
+        "english": ""
+    },
+    {
+        "terim": "EFFEKTİF",
+        "turkishMeaning": " Etkili, tesirli.",
+        "english": ""
+    },
+    {
+        "terim": "EFERVESAN",
+        "turkishMeaning": " Suya atıldığı zaman küçük gaz kabarcıkları çıkartarak köpüren, eriyen.",
+        "english": ""
+    },
+    {
+        "terim": "EFFÜZYON",
+        "turkishMeaning": " Vücut boşluklarında veya doku içerisinde sıvı birikmesi. \"\"Plevral effüzyon\"\" iki plevra yaprağı arasında sıvı birikmesidir.\"",
+        "english": ""
+    },
+    {
+        "terim": "E.K.G",
+        "turkishMeaning": " Elektrokardiogram kelimesi için kullanılan kısaltma.",
+        "english": ""
+    },
+    {
+        "terim": "EKİNOKOK",
+        "turkishMeaning": " Köpek ve kurtlar, nadiren kedilerde bulunan bir parazit olup larvaları memeli canlılarda büyüyerek hidatik kistleri yaparlar.",
+        "english": ""
+    },
+    {
+        "terim": "EKLAMPSİ",
+        "turkishMeaning": " İlerlemiş gebeliklerde veya doğumdan hemen sonra yüksek kan basıncı, ödem ve idrarda protein yükselmesi ile karekterize nöbetler ve önlem alınmazsa bilincin kaybolması hali.",
+        "english": ""
+    },
+    {
+        "terim": "EKO",
+        "turkishMeaning": " Yankı.",
+        "english": ""
+    },
+    {
+        "terim": "EKOKARDİYOGRFİ",
+        "turkishMeaning": " Kalp, damar sisteminin teşhisinde kullanılan ultrasonik bir yöntem.",
+        "english": ""
+    },
+    {
+        "terim": "EKOKARDİYOGRAM",
+        "turkishMeaning": " Ekokardiyografi yoluyla elde edilen çizelge.",
+        "english": ""
+    },
+    {
+        "terim": "EKOENSEFALOGRAM",
+        "turkishMeaning": " Beynin ekoensefalografi ile elde edilen çizelgesi.",
+        "english": ""
+    },
+    {
+        "terim": "EKOLALİ",
+        "turkishMeaning": " Hastanın kendisine söylenilen sözleri anlamsız şekilde aynen tekrarlaması.",
+        "english": ""
+    },
+    {
+        "terim": "EKLAMPSİ",
+        "turkishMeaning": " Gebelerde plasentadan gelen toksinlerle oluşan bilinç kaybı ve konvulsiyonlarla birlikte seyreden tablo.",
+        "english": ""
+    },
+    {
+        "terim": "EKSİZYON",
+        "turkishMeaning": " Bir dokunun çıkartılıp atılması.",
+        "english": ""
+    },
+    {
+        "terim": "EKTAZİ",
+        "turkishMeaning": " Genişleme. Örn. Bronşektazi.",
+        "english": ""
+    },
+    {
+        "terim": "EKTODERM",
+        "turkishMeaning": " Derinin en dış tabakası.",
+        "english": ""
+    },
+    {
+        "terim": "EKTOPİ",
+        "turkishMeaning": " Her hangi bir organın normal bulunması gereken yerde değilde, vücudun başka bir yerinde olması hali.",
+        "english": ""
+    },
+    {
+        "terim": "EKTROPİON",
+        "turkishMeaning": " Göz kapaklarının serbest kenarlarının dış tarafa kıvrılmaları.",
+        "english": ""
+    },
+    {
+        "terim": "EKZEMA",
+        "turkishMeaning": " Deride kızarıklık, şişme, veziküller, kaşıntı gibi belirtilerle görülen daha çok psikosomatik nedenli cilt rahatsızlığı. Akut ve Kronik diye ayrıldığı gibi Yaş ve Kuru ekzema cinsleri de vardır.",
+        "english": ""
+    },
+    {
+        "terim": "ELEKTROANSEFALOGRAFİ",
+        "turkishMeaning": " Beynin elektriki faaliyetlerinin grafik olarak gösterilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "ELEKTROKARDİOGRAFİ",
+        "turkishMeaning": " Kalp adelesinin faaliyetlerinin grafik olarak gösterilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "ENDOKRİNOLOJİ",
+        "turkishMeaning": " İç salgı bezlerinin fonksiyonlarını, normal dışı çalışma sonucu oluşan hastalıklarını ve bunların tedavilerini inceleyen tıp dalıdır.",
+        "english": ""
+    },
+    {
+        "terim": "ENDOKRİNOLOG",
+        "turkishMeaning": " Endokrin sistemin yapı, patolojileri ve tedavisi konusunda uzman kişi.",
+        "english": ""
+    },
+    {
+        "terim": "ENSEFALON",
+        "turkishMeaning": " Beyin.",
+        "english": ""
+    },
+    {
+        "terim": "ENVAZYON",
+        "turkishMeaning": " Yayılma, örneğin kafatasındaki bir tümörün beyin dokusuna envazyonu denince tümörün beyine yayılması kastedilir.",
+        "english": ""
+    },
+    {
+        "terim": "EPİTEL",
+        "turkishMeaning": " Organ ve vücut yüzeylerini örten hücre tabakası.",
+        "english": ""
+    },
+    {
+        "terim": "EROZYON",
+        "turkishMeaning": " Deri veya mukozada görülen, sınırlı bir bölgede epitel kaybı, yüzeyel yaralar. Örneğin; Cervical erozyon, halk arasında rahim ağzında yara olarak bilinir.",
+        "english": ""
+    },
+    {
+        "terim": "FALLOP TÜPLERİ",
+        "turkishMeaning": " Her biri yaklaşık 10 ar cm. uzunluğunda, uterusun üst köşelerinden yumurtalıklara kadar uzanan iki borudur. Tuba uterina veya uterus tüpleri de denir.",
+        "english": ""
+    },
+    {
+        "terim": "FALLOT'S TETRALOGY",
+        "turkishMeaning": " Kalbin doğumsal bir anomalisine verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "FALKS SEREBRİ",
+        "turkishMeaning": " Beynin sağ ve sol yarı kürelerini birbirinden ayıran, orağa benzediği için bu isim verilen kalın zar.",
+        "english": ""
+    },
+    {
+        "terim": "FAMİLYAL",
+        "turkishMeaning": " Irsi, kalıtsal, herediter.",
+        "english": ""
+    },
+    {
+        "terim": "FARİNKS",
+        "turkishMeaning": " Yutak.",
+        "english": ""
+    },
+    {
+        "terim": "FASİAL SİNİR",
+        "turkishMeaning": " Yüz siniri, yedinci kafa çifti.",
+        "english": ""
+    },
+    {
+        "terim": "FASİAL PARALİZİ",
+        "turkishMeaning": " Yüz siniri felci, bu sinirin felcinde yüzün yarısı kısmen hareketsiz ve ifadesiz kalır. Santral ve Periferik olmak üzere iki türlü olur.",
+        "english": ""
+    },
+    {
+        "terim": "FAT",
+        "turkishMeaning": " Yağ.",
+        "english": ""
+    },
+    {
+        "terim": "FATAL",
+        "turkishMeaning": " Öldürücü, ölümle sonuçlanan.",
+        "english": ""
+    },
+    {
+        "terim": "FEBRİL",
+        "turkishMeaning": " Ateşli, hummalı.",
+        "english": ""
+    },
+    {
+        "terim": "FEKALİT",
+        "turkishMeaning": " Barsakta bir kısım dışkının sertleşmesi sonucu oluşan dışkı taşı.",
+        "english": ""
+    },
+    {
+        "terim": "FEÇES",
+        "turkishMeaning": " Dışkı.",
+        "english": ""
+    },
+    {
+        "terim": "FEMUR",
+        "turkishMeaning": " Uyluk kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "FERMENT",
+        "turkishMeaning": " Bazı organların salgılarında bulunup kimyasal değişikliklere etki eden maddeler.",
+        "english": ""
+    },
+    {
+        "terim": "FERMENTASYON",
+        "turkishMeaning": " Mayalanma.",
+        "english": ""
+    },
+    {
+        "terim": "FERRİTİN",
+        "turkishMeaning": " Demir elementinin vücutta depo edilen şekli.",
+        "english": ""
+    },
+    {
+        "terim": "FERTİL",
+        "turkishMeaning": " Gelişme yeteneği olan, doğurabilen.",
+        "english": ""
+    },
+    {
+        "terim": "FERTİLİTE",
+        "turkishMeaning": " Doğurma yeteneği, verimlilik.",
+        "english": ""
+    },
+    {
+        "terim": "FETUS",
+        "turkishMeaning": " Üçüncü gebelik ayı başından doğuma kadarki devre içinde ana rahmindeki canlıya verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "FETAL",
+        "turkishMeaning": " Fetus'a ait.",
+        "english": ""
+    },
+    {
+        "terim": "FİBRİN",
+        "turkishMeaning": " Kanın pıhtılaşmasına yarayan albumin cinsinden bir madde.",
+        "english": ""
+    },
+    {
+        "terim": "FİBRİNEMİ",
+        "turkishMeaning": " Kanda fibrin bulunması.",
+        "english": ""
+    },
+    {
+        "terim": "FİBRİNÜRİ",
+        "turkishMeaning": " İdrarda fidrin çıkması.",
+        "english": ""
+    },
+    {
+        "terim": "FİBROM",
+        "turkishMeaning": " İyi huylu bağ dokusu uru.",
+        "english": ""
+    },
+    {
+        "terim": "FİBRO-SARKOM",
+        "turkishMeaning": " Bağ dokusunun kötü huylu tümörü.",
+        "english": ""
+    },
+    {
+        "terim": "FİBRÖZ",
+        "turkishMeaning": " Lif dokusu",
+        "english": ""
+    },
+    {
+        "terim": "FİBULA",
+        "turkishMeaning": " Bacaktaki iki kemikten dış kısımda olanıdır. Üstte Tibia ile eklem yapar diz eklemi yapısına girmez, altta ise ayak bileği eklemine iştirak eder.",
+        "english": ""
+    },
+    {
+        "terim": "FİLARİA",
+        "turkishMeaning": " Omurgalı canlıların kanında ve dokularında yaşayan kıl kurdu cinsi parazit. Elefantiazis denilen rahatsızlığa neden olur.",
+        "english": ""
+    },
+    {
+        "terim": "FRENİK SİNİR",
+        "turkishMeaning": " Nervus Frenicus. Göğüs boşluğu ile karın boşluğunu birbirinden ayıran diafragmanın sinirine verilen addır.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTEMİ",
+        "turkishMeaning": " Kanda süt bulunması.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTOSEL",
+        "turkishMeaning": " Memede, içi süt dolu kist.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTORE",
+        "turkishMeaning": " Memeden kendiliğinden süt gelmesi.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTOZ",
+        "turkishMeaning": " Süt şekeri.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTOZÜRİ",
+        "turkishMeaning": " Gebelerde idrarla galaktoz çıkması.",
+        "english": ""
+    },
+    {
+        "terim": "GALAKTÜRİ",
+        "turkishMeaning": " İdrarın süt görünümünde çıkması.",
+        "english": ""
+    },
+    {
+        "terim": "GANGLİON",
+        "turkishMeaning": " Lenf bezi, bazı ufak urlara verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "GANGREN",
+        "turkishMeaning": " Dokunun ölmesidir, ancak halk arasında daha çok bir uzvun vücuda bağlıyken ölmesi anlaşılır.",
+        "english": ""
+    },
+    {
+        "terim": "GASTRİT",
+        "turkishMeaning": " Mide iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "GASTRODÜODENİT",
+        "turkishMeaning": " Mide ve onikiparmak barsağının iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROENTERİT",
+        "turkishMeaning": " İshalle seyreden mide barsak iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROENTEROLOJİ",
+        "turkishMeaning": " Mide, barsak hastalıkları bilgisi.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROENTERELOG",
+        "turkishMeaning": " Mide, barsak hastalıkları mütehassısı.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROSKOPİ",
+        "turkishMeaning": " Hastaya yutturulan bir kamera ile midenin görerek muayene edilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROİNTESTİNAL",
+        "turkishMeaning": " Mide - barsak.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROLİT",
+        "turkishMeaning": " Mide taşı.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROMEGALİ",
+        "turkishMeaning": " Midenin genişlemesi.",
+        "english": ""
+    },
+    {
+        "terim": "GASTRONOMİ",
+        "turkishMeaning": " İyi yemek yeme bilimi.",
+        "english": ""
+    },
+    {
+        "terim": "GASTROPTOZİS",
+        "turkishMeaning": " Mide düşüklüğü.",
+        "english": ""
+    },
+    {
+        "terim": "GİARDİA",
+        "turkishMeaning": " Tek hücreli organizmalardandır. Esas adı Giardia Lamblialis olup, sindirim sisteminde yerleşir.",
+        "english": ""
+    },
+    {
+        "terim": "GİARDİASİS",
+        "turkishMeaning": " Giardia İntestinalis adlı mikroorgnizmanın sebep olduğu hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "HABİTÜEL",
+        "turkishMeaning": " İtiyadi, alışkanlığa bağlı.",
+        "english": ""
+    },
+    {
+        "terim": "HALLÜSİNASYON",
+        "turkishMeaning": " Gerçekte olmayan şeyleri algılamak.",
+        "english": ""
+    },
+    {
+        "terim": "HALLUKS",
+        "turkishMeaning": " Ayak başparmağı.",
+        "english": ""
+    },
+    {
+        "terim": "HALOTAN",
+        "turkishMeaning": " Anestezik bir madde.",
+        "english": ""
+    },
+    {
+        "terim": "HAMARTOM",
+        "turkishMeaning": " Yeni oluşmuş kan damarlarında meydana gelen tümör.",
+        "english": ""
+    },
+    {
+        "terim": "HAMARTROZ",
+        "turkishMeaning": " Eklem boşluğuna kan dolması.",
+        "english": ""
+    },
+    {
+        "terim": "HAŞİŞ",
+        "turkishMeaning": " Esrar, haşhaş.",
+        "english": ""
+    },
+    {
+        "terim": "HEMATOM",
+        "turkishMeaning": " Organ içerisinde veya aralarında kan birikmesi.",
+        "english": ""
+    },
+    {
+        "terim": "HEMORAJİ",
+        "turkishMeaning": " Kanama.",
+        "english": ""
+    },
+    {
+        "terim": "HEMAGLÜTİNASYON",
+        "turkishMeaning": " Kan yuvarlarının aglütinasyonu.",
+        "english": ""
+    },
+    {
+        "terim": "HEMANJİEKTAZİ",
+        "turkishMeaning": " Kan damarlarının genişlemesi.",
+        "english": ""
+    },
+    {
+        "terim": "HEMANJİOM",
+        "turkishMeaning": " Kan damarlarından dogan urlar.",
+        "english": ""
+    },
+    {
+        "terim": "HEMATEMEZ",
+        "turkishMeaning": " Kan kusma.",
+        "english": ""
+    },
+    {
+        "terim": "HEMATOSEL",
+        "turkishMeaning": " Testis torbalarında kan birikmesi.",
+        "english": ""
+    },
+    {
+        "terim": "HEMATOLOG",
+        "turkishMeaning": " Kan hastalıkları uzmanı.",
+        "english": ""
+    },
+    {
+        "terim": "HEMATOMİYELİ",
+        "turkishMeaning": " Omurilikte kanama.",
+        "english": ""
+    },
+    {
+        "terim": "HERPES",
+        "turkishMeaning": " Uçuk, içi sıvı dolu vezikül.",
+        "english": ""
+    },
+    {
+        "terim": "HERPES SİMPLEKS",
+        "turkishMeaning": " Aynı adı taşıyan virüsün sebep olduğu çeşitli deri ve mukoza bölgelerinde yaygın, küçük, içi sıvı dolu oluşumlar ile belirgin virütik enfeksiyon.",
+        "english": ""
+    },
+    {
+        "terim": "HİLER",
+        "turkishMeaning": " Hilus'a ait. Örneğin, Hiler Lenf Adenopati denildiği zaman Hilus'a komşu lenf bezlerinde büyüme anlaşılır.",
+        "english": ""
+    },
+    {
+        "terim": "HİLUS",
+        "turkishMeaning": " Organlarda büyük damar ve sinirlerin, akciğerlerde solunum yollarının giriş kapısı.",
+        "english": ""
+    },
+    {
+        "terim": "HİPERKROMAZİ",
+        "turkishMeaning": " Pigment fazlalığı gösteren.",
+        "english": ""
+    },
+    {
+        "terim": "HİPOFİZ",
+        "turkishMeaning": " Beyin tabanında burun arkasının üst kısmına uyan bölgede hormon salgılayan bir bezdir.",
+        "english": ""
+    },
+    {
+        "terim": "HİPOSPADİAS",
+        "turkishMeaning": " Penisin doğumsal bir şekil bozukluğudur. İdrar yolunun son kısmı olan üretra'nın dışa açılan deliğinin normal yerinde değil, penisin alt yüzünde herhangi bir yerde olması halidir.",
+        "english": ""
+    },
+    {
+        "terim": "İHTİYOZİS",
+        "turkishMeaning": " Cildin pul pul ve kuru oluşu ile kendini gösteren bir hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "İDİOPATİK",
+        "turkishMeaning": " Oluşumunda bir sebeb gösterilemeyen.",
+        "english": ""
+    },
+    {
+        "terim": "İKTER",
+        "turkishMeaning": " Sarılık.",
+        "english": ""
+    },
+    {
+        "terim": "İKTUS",
+        "turkishMeaning": " İnme. darbe.",
+        "english": ""
+    },
+    {
+        "terim": "İDİOT",
+        "turkishMeaning": " Doğuştan aptal.",
+        "english": ""
+    },
+    {
+        "terim": "İLEİTİS",
+        "turkishMeaning": " İnce barsak iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "İLEUM",
+        "turkishMeaning": " İnce barsağın son bölümü.",
+        "english": ""
+    },
+    {
+        "terim": "İLEUS",
+        "turkishMeaning": " Barsak tıkanması.",
+        "english": ""
+    },
+    {
+        "terim": "İLLUZYON",
+        "turkishMeaning": " Dışarıdan gelen görsel uyarıların olduklarından faklı algılanması.",
+        "english": ""
+    },
+    {
+        "terim": "İMBESİL",
+        "turkishMeaning": " Geri zekalı.",
+        "english": ""
+    },
+    {
+        "terim": "İMİTASYON",
+        "turkishMeaning": " Taklit.",
+        "english": ""
+    },
+    {
+        "terim": "İMMATÜR",
+        "turkishMeaning": " Tam gelişmemiş.",
+        "english": ""
+    },
+    {
+        "terim": "İMMİNENT",
+        "turkishMeaning": " Tehdit eden.",
+        "english": ""
+    },
+    {
+        "terim": "İMMİNENT ABORTUS",
+        "turkishMeaning": " Düşük tehdidi altındaki gebelik.",
+        "english": ""
+    },
+    {
+        "terim": "İMMOBİL",
+        "turkishMeaning": " Hareketsiz.",
+        "english": ""
+    },
+    {
+        "terim": "İMMÜN",
+        "turkishMeaning": " Bağışık,bulaşıcı hastalıktan muaf.",
+        "english": ""
+    },
+    {
+        "terim": "İMMÜNİTE",
+        "turkishMeaning": " Bağışıklık,muafiyet.",
+        "english": ""
+    },
+    {
+        "terim": "İMMÜNİZE",
+        "turkishMeaning": " Bağışık kılmak.",
+        "english": ""
+    },
+    {
+        "terim": "İMMÜNOLOJİ",
+        "turkishMeaning": " Bağışıklığı inceleyen bilim.",
+        "english": ""
+    },
+    {
+        "terim": "İMMÜNOLOG",
+        "turkishMeaning": " Bağışıklık uzmanı.",
+        "english": ""
+    },
+    {
+        "terim": "İNFLAMASYON",
+        "turkishMeaning": " Çeşitli mikrobik ajanlar veya toksinlerine karşı vücudun göstermiş olduğu; hararet artması, kızarıklık ile karakterize iltihabi reaksiyon.",
+        "english": ""
+    },
+    {
+        "terim": "İNTERMEDİER",
+        "turkishMeaning": " Arada oluşan, meydana gelen.",
+        "english": ""
+    },
+    {
+        "terim": "İNTRAEPİTELİAL",
+        "turkishMeaning": " Epital hücreleri içerisinde.",
+        "english": ""
+    },
+    {
+        "terim": "JARGON",
+        "turkishMeaning": " Kelimeleri yerinde kullanamama ile karekterize anlamsız ve anlaşılmaz konuşma.",
+        "english": ""
+    },
+    {
+        "terim": "JEJUNUM",
+        "turkishMeaning": " Oniki parmak barsağından sonra gelen ince barsak bölümü.",
+        "english": ""
+    },
+    {
+        "terim": "JEJUNİT",
+        "turkishMeaning": " Jejunum iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "JİGANTİZM",
+        "turkishMeaning": " Ergenlik çağından önce oluşan hipofiz bezi tümörlerinde büyüme olayının kontrolden çıkması sonucu oluşan dev görünüm.",
+        "english": ""
+    },
+    {
+        "terim": "JİNEKOLOJİ",
+        "turkishMeaning": " Kadın hastalıkları ile ilgili tıp dalı.",
+        "english": ""
+    },
+    {
+        "terim": "JİNEKOMASTİ",
+        "turkishMeaning": " Erkeklerde memenin anormal ölçüde büyümesi.",
+        "english": ""
+    },
+    {
+        "terim": "JİNJİVİT",
+        "turkishMeaning": " Diştleri iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "JOİNT",
+        "turkishMeaning": " Eklem.",
+        "english": ""
+    },
+    {
+        "terim": "JUVENİL",
+        "turkishMeaning": " Gençliğe ait.",
+        "english": ""
+    },
+    {
+        "terim": "KAKOZMİ",
+        "turkishMeaning": " Pis koku.",
+        "english": ""
+    },
+    {
+        "terim": "KALYUM",
+        "turkishMeaning": " Potasyum.",
+        "english": ""
+    },
+    {
+        "terim": "KARDİAK",
+        "turkishMeaning": " Kalbe ait.",
+        "english": ""
+    },
+    {
+        "terim": "KARİNA",
+        "turkishMeaning": " Trakeanın (nefes borusu), sağ ve sol akciğerlere girmeden önce ikiye ayrıldığı kısıma verilen ad.",
+        "english": ""
+    },
+    {
+        "terim": "KAŞEKSİ",
+        "turkishMeaning": " Genel sağlık durumunun bozukluğu ile ilgili ileri derecede zayıflama hali.",
+        "english": ""
+    },
+    {
+        "terim": "KATABOLİZMA",
+        "turkishMeaning": " Maddelerin yüksek terkiplerinin, dokularda yakılarak daha basit terkipte maddeler meydana gelmesi.",
+        "english": ""
+    },
+    {
+        "terim": "KELOİD",
+        "turkishMeaning": " Eski bir kesi veya ameliyat yerinde aşırı nedbe dokusu oluşmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "KERATİN",
+        "turkishMeaning": " Tırnak ve boynuzun ana maddesi.",
+        "english": ""
+    },
+    {
+        "terim": "KERATİNİZASYON",
+        "turkishMeaning": " Boynuzlaşma.",
+        "english": ""
+    },
+    {
+        "terim": "KERATİT",
+        "turkishMeaning": " Kornea iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "KERATOMA",
+        "turkishMeaning": " Nasır.",
+        "english": ""
+    },
+    {
+        "terim": "KERATOMETRE",
+        "turkishMeaning": " Kornea kavislerini ölçmekte kullanılan alet.",
+        "english": ""
+    },
+    {
+        "terim": "KERATOPLASTİ",
+        "turkishMeaning": " Matlaşmış korneanın yerine başkasından alınan korneanın konulması ameliyatı.",
+        "english": ""
+    },
+    {
+        "terim": "KERATOSKOP",
+        "turkishMeaning": " Korneayı muayene aleti.",
+        "english": ""
+    },
+    {
+        "terim": "KERNİCTERUS",
+        "turkishMeaning": " Yeni doğanın şiddetli ikterinde beynin bazı çekirdeklerinin bilüribinin etkisiyle toksik degenerasyonudur.Çocukta zeka geriliği ve spastisite görülebilir.",
+        "english": ""
+    },
+    {
+        "terim": "KETONEMİ",
+        "turkishMeaning": " Kanda keton cisimciklerinin bulunması.",
+        "english": ""
+    },
+    {
+        "terim": "KETONÜRİ",
+        "turkishMeaning": " Idrarla keton çıkarılması.",
+        "english": ""
+    },
+    {
+        "terim": "KIZAMIK",
+        "turkishMeaning": " Salgın yapan virütik bir çocukluk çağı hastalığıdır.",
+        "english": ""
+    },
+    {
+        "terim": "KİFOZ",
+        "turkishMeaning": " Omurganın açıklığı öne bakan kanburluğuna verilen ad.",
+        "english": ""
+    },
+    {
+        "terim": "KİST",
+        "turkishMeaning": " Etrafı membranla (zar) çevrili içi sıvı dolu oluşumlar. Büyüklükleri muhtelif olup vücüdun her tarafında oluşabilir.",
+        "english": ""
+    },
+    {
+        "terim": "KİST HİDATİK",
+        "turkishMeaning": " Bazı organlarda (daha çok karaciger, akciğer , beyin) ekinokok adı verilen parazitlerin neden olduğu içi berrak su görünümünde kistler.",
+        "english": ""
+    },
+    {
+        "terim": "KİST SEBASE",
+        "turkishMeaning": " Yağ bezlerinin büyümesi sonucu deri altında oluşan kistler.",
+        "english": ""
+    },
+    {
+        "terim": "KLOSTROFOBİ",
+        "turkishMeaning": " Kapalı yerlerden sebebsiz yere korkma reaksiyonudur.",
+        "english": ""
+    },
+    {
+        "terim": "KLEPTOMANİ",
+        "turkishMeaning": " İhtiyacı olmaksızın patalojik çalma dürtüsüne verilen addır.",
+        "english": ""
+    },
+    {
+        "terim": "KOCH BASİLİ",
+        "turkishMeaning": " Tüberküloz basiline, bulanın adına izafeten verilen ad.",
+        "english": ""
+    },
+    {
+        "terim": "KOLESTEROL",
+        "turkishMeaning": " Hayvansal ve bitkisel yağların içerisinde bulunan, karaciğer tarafından sentez edilen bir maddedir. Kanda normalden fazla bulunması halinde, damar sertliğine neden olur, ve bazanda safra pigmentleri ile birleşerek safra taşlarının oluşumunda rol oynar.",
+        "english": ""
+    },
+    {
+        "terim": "KORPUS",
+        "turkishMeaning": " Gövde.",
+        "english": ""
+    },
+    {
+        "terim": "KÜRTAJ",
+        "turkishMeaning": " Küretajın kelime anlamı kazımaktır. Ama burada adı geçen Kürtaj halk arasında, küçük hamileliklerde rahim içerisindeki ceninin tıbbi müdahele ile alınması kastedilmektedir. Kürtaj ayrıca teşhis amaçlı da yapılabilir. Yani rahim iç duvarından kazınarak örnek alınıp incelenmeside kürtaj olarak adlandırılır.",
+        "english": ""
+    },
+    {
+        "terim": "LABİL",
+        "turkishMeaning": " Kararsız, çabuk değişen.",
+        "english": ""
+    },
+    {
+        "terim": "LAKTASYON",
+        "turkishMeaning": " Annenin süt verme devresi.",
+        "english": ""
+    },
+    {
+        "terim": "LAKRİMA",
+        "turkishMeaning": " Göz yaşı.",
+        "english": ""
+    },
+    {
+        "terim": "LAKÜN",
+        "turkishMeaning": " Küçük boşluk, delik.",
+        "english": ""
+    },
+    {
+        "terim": "LAGOFTALMİ",
+        "turkishMeaning": " Göz kapaklarındaki bozukluk nedeniyle gözlerin tam kapanmaması hali.",
+        "english": ""
+    },
+    {
+        "terim": "LAP",
+        "turkishMeaning": " Lenfadenopati'nin kısaltılmış şeklidir. Lenfadenopati, lenf bezlerinde büyüme anlamına gelir.",
+        "english": ""
+    },
+    {
+        "terim": "LAPARATOMİ",
+        "turkishMeaning": " Teşhis amaçlı veya ameliyat için karın boşluğunun açılması.",
+        "english": ""
+    },
+    {
+        "terim": "LAPAROSKOPİ",
+        "turkishMeaning": " Ucunda kamera olan, laparoskop denilen aletle karın boşluğunun endoskopik incelenmesi.",
+        "english": ""
+    },
+    {
+        "terim": "LARVA",
+        "turkishMeaning": " Tırtıl, kurtçuk.",
+        "english": ""
+    },
+    {
+        "terim": "LARENKS",
+        "turkishMeaning": " Gırtlak.",
+        "english": ""
+    },
+    {
+        "terim": "LARENJİT",
+        "turkishMeaning": " Larenks iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "LARENGOSKOP",
+        "turkishMeaning": " Bogazın muayenesine yarayan aynalı ışıklı alet.",
+        "english": ""
+    },
+    {
+        "terim": "LARENGOSKOPİ",
+        "turkishMeaning": " Gırtlağın içinin larengoskop ile muayenesi.",
+        "english": ""
+    },
+    {
+        "terim": "LENFOMA",
+        "turkishMeaning": " Başlangıcını lenfoid dokudan almış ur.",
+        "english": ""
+    },
+    {
+        "terim": "LEZYON",
+        "turkishMeaning": " Genel anlamda henüz tam olarak niteliği tespit edilmemiş bozukluk.",
+        "english": ""
+    },
+    {
+        "terim": "LİGAMENT",
+        "turkishMeaning": " Vücudun muhtelif eklemlerinde, organlarında bulunan bağlara verilen isimdir.",
+        "english": ""
+    },
+    {
+        "terim": "MAKRO",
+        "turkishMeaning": " Büyük.",
+        "english": ""
+    },
+    {
+        "terim": "MAKROSEFALİ",
+        "turkishMeaning": " Başın (beynin) normalden büyük olması.",
+        "english": ""
+    },
+    {
+        "terim": "MAGNET",
+        "turkishMeaning": " Mıknatıs.",
+        "english": ""
+    },
+    {
+        "terim": "MALABSORBSİYON",
+        "turkishMeaning": " Emilimin bozuk oluşu.",
+        "english": ""
+    },
+    {
+        "terim": "MALADİ",
+        "turkishMeaning": " Hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "MALASİ",
+        "turkishMeaning": " Keyifsizlik, kırıklık.",
+        "english": ""
+    },
+    {
+        "terim": "MALARYA",
+        "turkishMeaning": " Sıtma.",
+        "english": ""
+    },
+    {
+        "terim": "MALE",
+        "turkishMeaning": " Erkek.",
+        "english": ""
+    },
+    {
+        "terim": "MALFORMASYON",
+        "turkishMeaning": " Kusurlu oluş, sakatlık.",
+        "english": ""
+    },
+    {
+        "terim": "MALFONKSİYON",
+        "turkishMeaning": " Her hangi bir organın yetersiz veya dengesiz görev yapması.",
+        "english": ""
+    },
+    {
+        "terim": "MALİN",
+        "turkishMeaning": " Habis, kötü huylu.",
+        "english": ""
+    },
+    {
+        "terim": "MALLEOL",
+        "turkishMeaning": " Ayak ekleminin her iki tarafındaki kemik çıkıntılarına verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "MALLEUS",
+        "turkishMeaning": " Orta kulaktaki çekiç kemik.",
+        "english": ""
+    },
+    {
+        "terim": "MALNUTRİSYON",
+        "turkishMeaning": " Sağlık için şart olan, vitamin, mineral, protein ve benzeri maddelerin yetersiz alınmasından doğan hastalıkları tanımlayan bir terimdir.",
+        "english": ""
+    },
+    {
+        "terim": "MALPRAKTİS",
+        "turkishMeaning": " Tıpta yanlış, özensiz tedavi.",
+        "english": ""
+    },
+    {
+        "terim": "MASTEKTOMİ",
+        "turkishMeaning": " Ameliyatla memenin alınması.",
+        "english": ""
+    },
+    {
+        "terim": "MAMİLLA",
+        "turkishMeaning": " Meme başı.",
+        "english": ""
+    },
+    {
+        "terim": "MAMOGRAFİ",
+        "turkishMeaning": " Meme filmi.",
+        "english": ""
+    },
+    {
+        "terim": "MANDİBULA",
+        "turkishMeaning": " Alt çene kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "MANİ",
+        "turkishMeaning": " Aşırı neşe şeklinde beliren psişik hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "MANİFEST",
+        "turkishMeaning": " Aşikar, gizli olmayan.",
+        "english": ""
+    },
+    {
+        "terim": "MARFAN SENDROMU",
+        "turkishMeaning": " Sebebi bilinmeyen herediter genetik bir hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "MARİHUANA",
+        "turkishMeaning": " Esrar.",
+        "english": ""
+    },
+    {
+        "terim": "MASTEKTOMİ",
+        "turkishMeaning": " Memenin her hangi bir rahatsızlık nedeniyle alınmasıdır. Basit mastektomi sadece meme dokusunun çıkartılmasıdır. Radikal mastektomi ise, kanser vakalarında baş vurulan memeyle birlikte, memenin altındaki kasların ve koltuk altındaki lenf bezlerinin de çıkartılmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "MASTİTİS",
+        "turkishMeaning": " Memenin iltihabıdır, emziren annelerde sütün birikmesi nedeniyle veya meme başındaki çatlak nedeniyle sık rastlanan bir durumdur.",
+        "english": ""
+    },
+    {
+        "terim": "MASTOİDEKTOMİ",
+        "turkishMeaning": " Mastoid hücrelerin iltihaplanması nedeniyle mastoid kemiğin çıkartılması ameliyatıdır.",
+        "english": ""
+    },
+    {
+        "terim": "MASTOİDİT",
+        "turkishMeaning": " Kulak arkasında bulunan mastoid kemikteki,mastoid hücrelerinin iltihabıdır. Genellikle orta kulak iltihaplarını takip eder.",
+        "english": ""
+    },
+    {
+        "terim": "MAZOHİST",
+        "turkishMeaning": " İşkenceden zevk alan, işkence tarzı hareketlerden cinsel haz duyan.",
+        "english": ""
+    },
+    {
+        "terim": "MENENJİT",
+        "turkishMeaning": " Beyin zarlarının (Meninkslerin) iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "MENOPOZ",
+        "turkishMeaning": " Adetten kesilme.",
+        "english": ""
+    },
+    {
+        "terim": "MENSTRUAL",
+        "turkishMeaning": " Menstruasyonla ile ilgili, adet görme ile ilgili.",
+        "english": ""
+    },
+    {
+        "terim": "MENSTRUAL SİKLUS",
+        "turkishMeaning": " Adet görme dönemleri, iki adet arası.",
+        "english": ""
+    },
+    {
+        "terim": "MENTRUASYON",
+        "turkishMeaning": " Adet görme, ay başı. (bayanlarda periodik kanama)",
+        "english": ""
+    },
+    {
+        "terim": "MENTAL RETERDATION",
+        "turkishMeaning": " Zeka gelişiminde gerilik.",
+        "english": ""
+    },
+    {
+        "terim": "METASTATİK",
+        "turkishMeaning": " Metastaz yapmış lezyona verilen isim. (Başka bir organdan atlamış tümöral oluşum)",
+        "english": ""
+    },
+    {
+        "terim": "METASTAZ",
+        "turkishMeaning": " Herhangi bir organdaki kanser hücrelerinin, vücudun başka bir bölümüne atlamasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "MİTOZ",
+        "turkishMeaning": " Hücre bölünmesi.",
+        "english": ""
+    },
+    {
+        "terim": "MİYOM",
+        "turkishMeaning": " Uterus adalesinin iyi huylu tümörüdür.",
+        "english": ""
+    },
+    {
+        "terim": "MUKOLİTİK",
+        "turkishMeaning": " Mukus'u eriten anlamındadır. Yani, akciğerlerde oluşan ve katılığı nedeniyle çıkarılmakta güçlükle karşılaşılan mukus'un (balgam) kıvamını azaltarak, atılmasını sağlayan ilaçlar.",
+        "english": ""
+    },
+    {
+        "terim": "MUKOZA",
+        "turkishMeaning": " Bazı organların iç yüzlerini kaplayan ve salgı üreten doku tabakası.",
+        "english": ""
+    },
+    {
+        "terim": "NARKOANALİZ",
+        "turkishMeaning": " Psikanalize yardımcı olmak amacıyla, bir narkotik ilacın kullanılmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "NARKOLEPSİ",
+        "turkishMeaning": " Önüne geçilemiyecek kadar şiddetli uyuma eğilimi.",
+        "english": ""
+    },
+    {
+        "terim": "NARKOZ",
+        "turkishMeaning": " Ameliyat yapmak için duyu, hareket ve bilincin damar yolu veya solunum yolu ile narkotik madde verilerek uyuşturulmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "NARKOTİK",
+        "turkishMeaning": " Uyutucu, uyuşturucu.",
+        "english": ""
+    },
+    {
+        "terim": "NARSİZM",
+        "turkishMeaning": " Kendi kendini sevmek anlamına gelir.Aslında gelişimin normal bir safhasını teşkil eder,ancak hayatın ileri devrelerinde varlığı anormal sayılır.",
+        "english": ""
+    },
+    {
+        "terim": "NATAL",
+        "turkishMeaning": " Doğuşa ait.",
+        "english": ""
+    },
+    {
+        "terim": "NAZAL KEMİK",
+        "turkishMeaning": " Burun kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "NAZOFARİNKS",
+        "turkishMeaning": " Burnun arka kısmı ile yutağın komşuluk yaptığı bölge.",
+        "english": ""
+    },
+    {
+        "terim": "NATRİUM",
+        "turkishMeaning": " Sodyum.",
+        "english": ""
+    },
+    {
+        "terim": "NATUREL",
+        "turkishMeaning": " Normal, tabii.",
+        "english": ""
+    },
+    {
+        "terim": "NAUSEA",
+        "turkishMeaning": " Mide bulantısı.",
+        "english": ""
+    },
+    {
+        "terim": "NEBULİZER",
+        "turkishMeaning": " Sıvıyı püskürterek uygulamaya yarayan alet.",
+        "english": ""
+    },
+    {
+        "terim": "NEONATAL",
+        "turkishMeaning": " Yeni doğana ait.",
+        "english": ""
+    },
+    {
+        "terim": "NEOPLAZİ",
+        "turkishMeaning": " Patalojik anlamda yeni doku oluşumu.",
+        "english": ""
+    },
+    {
+        "terim": "NÖROLOJİ",
+        "turkishMeaning": " Asabiye, sinir hastalıkları.",
+        "english": ""
+    },
+    {
+        "terim": "NÖROŞİRÜRJİ",
+        "turkishMeaning": " Beyin cerrahisi.",
+        "english": ""
+    },
+    {
+        "terim": "NODÜL",
+        "turkishMeaning": " Yuvarlak, çapı 1 cm'den küçük patolojik oluşumlar.",
+        "english": ""
+    },
+    {
+        "terim": "OBDUKSİYON",
+        "turkishMeaning": " Otopsi.",
+        "english": ""
+    },
+    {
+        "terim": "OBEZ",
+        "turkishMeaning": " Şişman.",
+        "english": ""
+    },
+    {
+        "terim": "OBEZİTE",
+        "turkishMeaning": " Şişmanlık.",
+        "english": ""
+    },
+    {
+        "terim": "OBJE",
+        "turkishMeaning": " Görülebilen veya dokunulanilen herhangi bir şey.",
+        "english": ""
+    },
+    {
+        "terim": "OBJEKTİF",
+        "turkishMeaning": " Duyulup, görülebilen, idrak edilebilen.",
+        "english": ""
+    },
+    {
+        "terim": "OBLİTERASYON",
+        "turkishMeaning": " Vücuttaki boşlukların tıkanması.",
+        "english": ""
+    },
+    {
+        "terim": "OBSERVASYON",
+        "turkishMeaning": " Müşahade.",
+        "english": ""
+    },
+    {
+        "terim": "OBSESYON",
+        "turkishMeaning": " Daimi endişe,fikri sabit, nöroz.",
+        "english": ""
+    },
+    {
+        "terim": "OBSTRÜKSİYON",
+        "turkishMeaning": " Tıkanma, engel.",
+        "english": ""
+    },
+    {
+        "terim": "OBSTETRİ",
+        "turkishMeaning": " Doğum bilgisi.",
+        "english": ""
+    },
+    {
+        "terim": "ODİOGRAM",
+        "turkishMeaning": " Kulağın işitme gücünün kaydıdır, odiometri cihazı ile ölçülür.",
+        "english": ""
+    },
+    {
+        "terim": "OEDİPUS KOMPLEKSİ",
+        "turkishMeaning": " Erkek çocuğun annesine karşı duyduğu bilinçsiz yakınlık nedeniyle babasını kıskanması ve bununla ilgili ruhsal bozukluklar kompleksine verilen isimdir.",
+        "english": ""
+    },
+    {
+        "terim": "ODONTOİD",
+        "turkishMeaning": " Diş şeklinde.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMİK",
+        "turkishMeaning": " Göze ait.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOPLEJİ",
+        "turkishMeaning": " Göze ait sinirlerin felci sonucu göz kapağının düşmesi ve gözün hareket edememesi ile birlikte oluşan tablo.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOLOJİ",
+        "turkishMeaning": " Göz ve göz hastalıkları ile uğraşan bilim dalı.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOSKOP",
+        "turkishMeaning": " Göz içi muayenesinde kullanılan bir alet.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOSKOPİ",
+        "turkishMeaning": " Oftalmoskop ile gözün içinin muayene edilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOLOJİST",
+        "turkishMeaning": " Göz hastalıkları uzmanı, göz mütehassısı.",
+        "english": ""
+    },
+    {
+        "terim": "OFTALMOTONOMETRİ",
+        "turkishMeaning": " Göz içi basıncın ölçülmesi.",
+        "english": ""
+    },
+    {
+        "terim": "OKKULT",
+        "turkishMeaning": " Gizli, kapalı.",
+        "english": ""
+    },
+    {
+        "terim": "OKLUDE",
+        "turkishMeaning": " Kapalı, tıkalı.",
+        "english": ""
+    },
+    {
+        "terim": "OKSİPUT",
+        "turkishMeaning": " Başın arka kısmı.",
+        "english": ""
+    },
+    {
+        "terim": "OKULOMOTORYUS",
+        "turkishMeaning": " Gözü hareket ettiren sinirlerden birisidir.(3.kafa çifti Nervus Oculomotorius)",
+        "english": ""
+    },
+    {
+        "terim": "OKÜLER",
+        "turkishMeaning": " Göze ait.",
+        "english": ""
+    },
+    {
+        "terim": "OLEKRANON",
+        "turkishMeaning": " Dirsekteki çıkıntı.",
+        "english": ""
+    },
+    {
+        "terim": "OLFAKTORYUS",
+        "turkishMeaning": " Koku siniri.(Nervus Olfactorius)",
+        "english": ""
+    },
+    {
+        "terim": "OLİGÜRİ",
+        "turkishMeaning": " İdrarın normalden az çıkartılması",
+        "english": ""
+    },
+    {
+        "terim": "OLİGO",
+        "turkishMeaning": " Geri,küçük.",
+        "english": ""
+    },
+    {
+        "terim": "OLİGODENDROGLİOMA",
+        "turkishMeaning": " Sinir sistemi destek dokusuna ait, özellikle beyincikte görülen kötü huylu tümör.",
+        "english": ""
+    },
+    {
+        "terim": "OLİGOSPERMİ",
+        "turkishMeaning": " Menide spermatozoidlerin normalden az oluşu.",
+        "english": ""
+    },
+    {
+        "terim": "OMENTUM",
+        "turkishMeaning": " Karın içerisinde, barsakları örten oluşum.",
+        "english": ""
+    },
+    {
+        "terim": "ONANİZM",
+        "turkishMeaning": " Genital organlar ile oynayarak kendi kendine tatmin.",
+        "english": ""
+    },
+    {
+        "terim": "ONKOLOJİ",
+        "turkishMeaning": " Tümöral oluşumlarla ilgili bilim dalı.",
+        "english": ""
+    },
+    {
+        "terim": "OPAK",
+        "turkishMeaning": " Donuk, şeffaf olmayan.",
+        "english": ""
+    },
+    {
+        "terim": "OPERABL",
+        "turkishMeaning": " Ameliyat edilebilir, ameliyat edilmekle halen bir şansı olan. ( aksi; inoperabl )",
+        "english": ""
+    },
+    {
+        "terim": "OPERASYON",
+        "turkishMeaning": " Cerrahi müdahale, ameliyat.",
+        "english": ""
+    },
+    {
+        "terim": "OPİAT",
+        "turkishMeaning": " Afyonlu ilaç, uyuşturucu.",
+        "english": ""
+    },
+    {
+        "terim": "OPİSTOTONUS",
+        "turkishMeaning": " Bazı hastalıklarda vücudun ekstansör (gerici ) kaslarının gerilmesi sonucu gövdenin yay biçimi alarak kasılmış hali. ( Örn. Tetanozda )",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOGENESİS",
+        "turkishMeaning": " Kemik oluşumu, kemiklerin gelişimi.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOGENESİS İMPERFEKTA",
+        "turkishMeaning": " Kemiklerin kolayca kırılacak şekilde gevrek oluşu ile karekterize kalıtsal nitelik gösteren hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOJENİK",
+        "turkishMeaning": " Kemik yapıcı.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOİD",
+        "turkishMeaning": " Kemik gibi, kemiğimsi.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOLİZ",
+        "turkishMeaning": " Kemiğin çürümesi, nekrozu, erimesi.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOMALASİ",
+        "turkishMeaning": " Kemiklerin yumuşaması ile karekterize bir hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOMİYELİT",
+        "turkishMeaning": " Kemik iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOFİT",
+        "turkishMeaning": " Kemiklerde patalojik olarak oluşan çıkıntı şeklindeki oluşumlar.",
+        "english": ""
+    },
+    {
+        "terim": "OSTEOPLASTİ",
+        "turkishMeaning": " Kusurrlu kemiği düzeltme veya sağlam kemikle değiştirme ameliyatı.",
+        "english": ""
+    },
+    {
+        "terim": "OVOBLAST",
+        "turkishMeaning": " Yumurtanın geliştiği hücre, yumurta hücresi.",
+        "english": ""
+    },
+    {
+        "terim": "OVOSİT",
+        "turkishMeaning": " Olgunlaşma devresinden önceki dişi cinsiyet hücresi.",
+        "english": ""
+    },
+    {
+        "terim": "OVÜLASYON",
+        "turkishMeaning": " Kadınlarda yumurtalıklarda ovüm'ün (Yumurtanın) atılmasıdır. Ovülasyon genellikle adet dönemlerinin ortasına rastlayan 11-14. günler arasında olur.",
+        "english": ""
+    },
+    {
+        "terim": "ÖDEM",
+        "turkishMeaning": " Vücutta anormal miktarda su toplanmasıdır.Kalp, damar ve böbrek hastalıklarının bir belirtisi olabildiği gibi bazı allerjik durumlarda ve beyin travmalarında ciddi sonuçlar doğurabilir.",
+        "english": ""
+    },
+    {
+        "terim": "ÖDİPUS KOMPLEKSİ",
+        "turkishMeaning": " Bkz. ODİPUS KOMPLEKSİ.",
+        "english": ""
+    },
+    {
+        "terim": "ÖSTAKİ BORUSU",
+        "turkishMeaning": " Orta kulakla nazofarenksi birleştiren, atmosfer basıncı ile orta kulak içi basıncı dengeliyen yola verilen isimdir.",
+        "english": ""
+    },
+    {
+        "terim": "ÖSTROJEN",
+        "turkishMeaning": " Yumurtalıklardan salgılanan ve insanlarda sekonder cinsel karakterlerin gelişmesini sağlıyan hormondur.",
+        "english": ""
+    },
+    {
+        "terim": "ÖTENAZİ",
+        "turkishMeaning": " Kısaca ölüm hakkı da denilebilir.Tedavisi mümkün olmayan kronik hastalıklarda, hayattan umudunu kesmiş hastanın ağrısız bir metotla ölümüne izin verilmesidir.Yasal değildir.",
+        "english": ""
+    },
+    {
+        "terim": "ÖZEFAGUS",
+        "turkishMeaning": " Yemek borusuna verilen isimdir, yutak ile mideyi birleştirir.",
+        "english": ""
+    },
+    {
+        "terim": "PAKİMENENJİT",
+        "turkishMeaning": " Beynin en dış zarının (dura mater) iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "PANDEMİ",
+        "turkishMeaning": " Salgın bir hastalığın kıta düzeyinde çok geniş bir alana yayılmasına verilen isimdir.",
+        "english": ""
+    },
+    {
+        "terim": "PALİLALİ",
+        "turkishMeaning": " Psikolojik bir bozukluk olup, aynı cümle veya kelimenin bir çok defa tekrarlanmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "PALYATİF",
+        "turkishMeaning": " Hafifletici.",
+        "english": ""
+    },
+    {
+        "terim": "PALPASYON",
+        "turkishMeaning": " Elle dokunularak yapılan muayene.",
+        "english": ""
+    },
+    {
+        "terim": "PALPİTASYON",
+        "turkishMeaning": " Kalp çarpıntısı.",
+        "english": ""
+    },
+    {
+        "terim": "PALSY",
+        "turkishMeaning": " Felç, inme.",
+        "english": ""
+    },
+    {
+        "terim": "PAN",
+        "turkishMeaning": " Bütün.",
+        "english": ""
+    },
+    {
+        "terim": "PANARİS",
+        "turkishMeaning": " Tırnak yatağı iltihabı, dolama.",
+        "english": ""
+    },
+    {
+        "terim": "PANARTERİT",
+        "turkishMeaning": " Bütün arterleri kapsayan iltihabi durum.",
+        "english": ""
+    },
+    {
+        "terim": "PANKARDİT",
+        "turkishMeaning": " Kalbin bütün zarlarının iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "PANKREAS",
+        "turkishMeaning": " Karın boşluğunun üst tarafında ve bel omurlarının ön kısmında yerleşik bir organdır.Salgılarıyla sindirm fonksiyonuna yardımcı olur ve kan şekerini düzenler.",
+        "english": ""
+    },
+    {
+        "terim": "PANKREATİT",
+        "turkishMeaning": " Pankreas iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "PANOFTALMİ",
+        "turkishMeaning": " Gözün bütün tabakalarının iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "PANSİNÜZİT",
+        "turkishMeaning": " Bütün yüz sinüslerinin iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "PAPİLLOM",
+        "turkishMeaning": " Meme başı gibi çıkıntılar yapan iyi huylu tümörler.",
+        "english": ""
+    },
+    {
+        "terim": "PAPİLLOKARSİNOM",
+        "turkishMeaning": " Kötü huylu papillom.",
+        "english": ""
+    },
+    {
+        "terim": "PAPAVERİN",
+        "turkishMeaning": " Opiumdan elde edilen, düz kasların spazmını çözücüetkiye sahip bir alkaloid.",
+        "english": ""
+    },
+    {
+        "terim": "PAPİLLİT",
+        "turkishMeaning": " Görme sinirinin retinaya girdiği yerin(optik papilla)ödemli iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "PAPÜL",
+        "turkishMeaning": " Ciltteki, sınırları belirgin, kabarık, 1 cm'den küçük çaplı lezyonlardır. Resim - Papül",
+        "english": ""
+    },
+    {
+        "terim": "PARA",
+        "turkishMeaning": " Yanında, yan. Örn. (Para-aortik aortun yanında)",
+        "english": ""
+    },
+    {
+        "terim": "PARAKARDİAK",
+        "turkishMeaning": " Kalbin yanında, kalbe komşu.",
+        "english": ""
+    },
+    {
+        "terim": "PARALİTİK",
+        "turkishMeaning": " Felç olan, felçli kişi.",
+        "english": ""
+    },
+    {
+        "terim": "PARALİZİ",
+        "turkishMeaning": " Felç.",
+        "english": ""
+    },
+    {
+        "terim": "PARAMEDİAN",
+        "turkishMeaning": " Orta hattın yanında, orta hatta yakın.",
+        "english": ""
+    },
+    {
+        "terim": "PARAMEDİKAL",
+        "turkishMeaning": " Bir dereceye kadar tıpla ilgili, hekimliği kısmen ilgilendiren.",
+        "english": ""
+    },
+    {
+        "terim": "PARANAZAL",
+        "turkishMeaning": " Burun boşluğunun yanında, buruna komşu.",
+        "english": ""
+    },
+    {
+        "terim": "PARANKİM",
+        "turkishMeaning": " Bir organ yada bezin görev gören dokusudur. Örneğin, karaciğer parankimi denildiği zaman, karaciğerin bütünü anlaşılır.",
+        "english": ""
+    },
+    {
+        "terim": "PARAOZEFAGEAL",
+        "turkishMeaning": " Özefagusun ( yemek borusu ) yanında yer alan.",
+        "english": ""
+    },
+    {
+        "terim": "PARAPLEJİ",
+        "turkishMeaning": " Belden aşağı her, iki bacağın tutmaması, felç hali.",
+        "english": ""
+    },
+    {
+        "terim": "PARAPAREZİ",
+        "turkishMeaning": " Belden aşağı her iki bacağın kısmi felci, örn. hareket olup, yardımsız yürüyecek kadar güç olmaması.",
+        "english": ""
+    },
+    {
+        "terim": "PARATİROİD",
+        "turkishMeaning": " Tiroid bezi arkasında bulunan dört adet küçük beze verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "PARATİROİDEKTOMİ",
+        "turkishMeaning": " Paratiroidlerin ameliyatla çıkartılması.",
+        "english": ""
+    },
+    {
+        "terim": "PARATRAKEAL",
+        "turkishMeaning": " Nefes borusunun yanında yer alan.",
+        "english": ""
+    },
+    {
+        "terim": "PARAVERTEBRAL",
+        "turkishMeaning": " Omurganın ( Vertebral Kolon ) yanında yer alan.",
+        "english": ""
+    },
+    {
+        "terim": "PARAZİTEMİ",
+        "turkishMeaning": " Kanda parazit bulunması.",
+        "english": ""
+    },
+    {
+        "terim": "PARAZİT",
+        "turkishMeaning": " Asalak.",
+        "english": ""
+    },
+    {
+        "terim": "PARASENTEZ",
+        "turkishMeaning": " İçinde su veya cerahat toplanmış bir vücut boşluğundaki sıvıyı çıkarmak için yapılan delme ameliyatı.",
+        "english": ""
+    },
+    {
+        "terim": "PARENKİM",
+        "turkishMeaning": " Organın kendine özel doku yapısı.",
+        "english": ""
+    },
+    {
+        "terim": "PARENTERAL",
+        "turkishMeaning": " İlaç veya serumların ağız yolu ile değil damar yolu, adele içi gibi yollarla verilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "PARESTEZİ",
+        "turkishMeaning": " Uyuşma, karıncalanma veya yanma hissi gibi duyusal bozukluklar.",
+        "english": ""
+    },
+    {
+        "terim": "PARİETAL KEMİK",
+        "turkishMeaning": " Kafatasının her iki yan tarafındaki kemiklere verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "PAROKSİSMAL",
+        "turkishMeaning": " Ani ve geçici krizler halinde gelen.",
+        "english": ""
+    },
+    {
+        "terim": "PARSİYEL",
+        "turkishMeaning": " Bütününü kapsamayan, tam olmayan, kısmi.",
+        "english": ""
+    },
+    {
+        "terim": "PARTİKÜL",
+        "turkishMeaning": " Parçacık, zerre.",
+        "english": ""
+    },
+    {
+        "terim": "PARTUS",
+        "turkishMeaning": " Doğum.",
+        "english": ""
+    },
+    {
+        "terim": "PAROTİS BEZİ",
+        "turkishMeaning": " Kulak altı tükrük bezi.",
+        "english": ""
+    },
+    {
+        "terim": "PAROTİTİS",
+        "turkishMeaning": " Kabakulak.",
+        "english": ""
+    },
+    {
+        "terim": "PATELLA",
+        "turkishMeaning": " Diz kapağı kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "PATOJEN",
+        "turkishMeaning": " Hastalık yapan madde veya mikroorganizmalar.",
+        "english": ""
+    },
+    {
+        "terim": "PATOGENEZ",
+        "turkishMeaning": " Hastalığın esas ve gelişimi.",
+        "english": ""
+    },
+    {
+        "terim": "PATOGNOMONİK",
+        "turkishMeaning": " Bir hastalık için çok özel belirti, bu varsa mutlaka o hastalık akla gelmelidir gibi.",
+        "english": ""
+    },
+    {
+        "terim": "PATOLOJİK",
+        "turkishMeaning": " Normal olmayan, hastalıklı.",
+        "english": ""
+    },
+    {
+        "terim": "PATOLOG",
+        "turkishMeaning": " Hastalık nedeni ile dokularda meydana gelen değişimleri inceleyen bilimle uğraşan kişi.",
+        "english": ""
+    },
+    {
+        "terim": "PEDİATRİ",
+        "turkishMeaning": " Çocuk hastalıkları ile uğraşan tıp dalı.",
+        "english": ""
+    },
+    {
+        "terim": "PEDİATRİST",
+        "turkishMeaning": " Çocuk hastalıkları uzmanı.",
+        "english": ""
+    },
+    {
+        "terim": "PELVİS",
+        "turkishMeaning": " Leğen kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "PENİS",
+        "turkishMeaning": " Erkek cinsel organı.",
+        "english": ""
+    },
+    {
+        "terim": "PERİTON",
+        "turkishMeaning": " Karın içi organları çepeçevre saran, karın boşluğunun iç yüzünü örten zardır.",
+        "english": ""
+    },
+    {
+        "terim": "PERİTONİT",
+        "turkishMeaning": " Peritonun iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "PERORAL",
+        "turkishMeaning": " Ağız yolu ile.",
+        "english": ""
+    },
+    {
+        "terim": "PETEŞİ",
+        "turkishMeaning": " Ciltte nokta biçiminde kanamalar. (Damar dışına kan çıkması)",
+        "english": ""
+    },
+    {
+        "terim": "PHENOTYPE",
+        "turkishMeaning": " Kişinin kalıtsal yapısının dışa akseden görünümü, aynı tür fertlerini belirleyen, gözle görülebilen özelliklerin tümü.",
+        "english": ""
+    },
+    {
+        "terim": "PITRIASIS",
+        "turkishMeaning": " Daha çok gövdede ve uzuvların gövdeye yakın yerlerinde yerleşen, bazan kepeklenme gösteren bir cilt hastalığıdır. Çeşitli türleri vardır, bunlardan PITRIASIS VERSICOLOR'da deniz mevsimlerinde hasta olan bölge güneş ışını almadığı için daha belirgin hale gelir.",
+        "english": ""
+    },
+    {
+        "terim": "PLAK",
+        "turkishMeaning": " Plak, dermatologlar için açık bir anlamı olan ancak başkaları tarafından genellikle anlaşılmayan bir terimdir. Yüksekliğine oranla kapladığı alan geniştir ve keskin bir kenarı vardır. Plaklar en sık sedef hastalığında (psöriasis) görülür. Bkz. Resim - Plak",
+        "english": ""
+    },
+    {
+        "terim": "PLEVRA",
+        "turkishMeaning": " Akciğerleri ve göğüs kafesinin iç yüzünü örten zar.",
+        "english": ""
+    },
+    {
+        "terim": "PLEVRAL",
+        "turkishMeaning": " Plevraya ait.",
+        "english": ""
+    },
+    {
+        "terim": "PLÖREZİ",
+        "turkishMeaning": " Plevra iltihabı. Akciğerin üzerini örten plevra ile göğüs duvarını örten iki plevra yaprağı arasında sıvı birikmesi.",
+        "english": ""
+    },
+    {
+        "terim": "PLÖRİT",
+        "turkishMeaning": " Plevranın, sıvı birikmeksizin kuru iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "POLİKİSTİK",
+        "turkishMeaning": " Bazı organlarda çok sayıda içi sıvı ile dolu oluşumlara verilen addır. Polikistik böbrek, polikistik meme gibi.",
+        "english": ""
+    },
+    {
+        "terim": "POLİP",
+        "turkishMeaning": " Organların ve vücut boşluklarının iç yüzünü kapsayan mukoza adı verilen tabakadan menşeini almış, saplı iyi huylu küçük ur.",
+        "english": ""
+    },
+    {
+        "terim": "PROSTAT",
+        "turkishMeaning": " Erkeklerde mesanenin altında ve idar yolunun başlangıcında bulunan genital sisteme ait bir bez.",
+        "english": ""
+    },
+    {
+        "terim": "PROSTATİT",
+        "turkishMeaning": " Prostat iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "PSORIASIS",
+        "turkishMeaning": " Halk arasında sedef hastalığı olarak bilinir. Sık rastlanan, özellikle diz ve dirseklerde ve vücudun diğer bölgelerinde rastlanan simetrik, kırmızı, kabuklanma ve pullanma gösteren bir cilt hastalığıdır. Sebebi bilinmemektedir. Bkz Resim",
+        "english": ""
+    },
+    {
+        "terim": "PULMONER",
+        "turkishMeaning": " Akciğer veya akciğerlerle ilgili.",
+        "english": ""
+    },
+    {
+        "terim": "PULMONER ARTER",
+        "turkishMeaning": " Akciğerin büyük besleyici arteri.",
+        "english": ""
+    },
+    {
+        "terim": "PÜSTÜL",
+        "turkishMeaning": " Ciltte, içerisinde cerahat bulunan kabarık lezyonlardır.",
+        "english": ""
+    },
+    {
+        "terim": "RABİES",
+        "turkishMeaning": " Kuduz.",
+        "english": ""
+    },
+    {
+        "terim": "RADİUS",
+        "turkishMeaning": " Ön kolun dış tarafında (baş parmak tarafında) bulunan kemiktir.",
+        "english": ""
+    },
+    {
+        "terim": "RADİKAL",
+        "turkishMeaning": " Sebebe yönelik, köklü.",
+        "english": ""
+    },
+    {
+        "terim": "RADİKÜL",
+        "turkishMeaning": " İnce dal, küçük kök.",
+        "english": ""
+    },
+    {
+        "terim": "RADİKÜLİT",
+        "turkishMeaning": " Omurilikten çıkan sinirlerin (spinal sinir) kök iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "RADİKÜLOPATİ",
+        "turkishMeaning": " Spinal sinir köklerini tutan herhangi bir hastalık.",
+        "english": ""
+    },
+    {
+        "terim": "RADYOAKTİF",
+        "turkishMeaning": " Radyasyon yayan özelliğe sahip.",
+        "english": ""
+    },
+    {
+        "terim": "RADYODERMATİT",
+        "turkishMeaning": " Işına maruz kalmış ciltte meydana gelen dermatit.",
+        "english": ""
+    },
+    {
+        "terim": "RADYOLOJİ",
+        "turkishMeaning": " Genel anlamda X ışınları,ses dalgaları veya diger yöntemleri kullanarak teşhis hizmetleri veren tıp dalıdır.",
+        "english": ""
+    },
+    {
+        "terim": "RADYOTERAPİ",
+        "turkishMeaning": " Işınlama kullanılarak yapılan tedavi yöntemi.",
+        "english": ""
+    },
+    {
+        "terim": "RAHİM",
+        "turkishMeaning": " Uterus, döl yatağı.",
+        "english": ""
+    },
+    {
+        "terim": "RAŞİTİZM",
+        "turkishMeaning": " D vitamini eksikliğinin neden olduğu, çocuklarda görülen bir hastalıktır.Kemik teşekkülünün tam olmaması nedeniyle tedavisi geciktirilmiş, ihmal edilmiş vakalarda uzun kemiklerde deformiteler teşekkül eder.",
+        "english": ""
+    },
+    {
+        "terim": "REFRAKSİYON",
+        "turkishMeaning": " Kırılma.",
+        "english": ""
+    },
+    {
+        "terim": "REFRAKTOMETRE",
+        "turkishMeaning": " Görme bozuklukluklarını ölçen cihaz.",
+        "english": ""
+    },
+    {
+        "terim": "REJENERASYON",
+        "turkishMeaning": " Harap olmuş bir dokunun kendini yenilemesi, tamiri.",
+        "english": ""
+    },
+    {
+        "terim": "REJİONAL",
+        "turkishMeaning": " Bir bölgeye ait.",
+        "english": ""
+    },
+    {
+        "terim": "REGRESYON",
+        "turkishMeaning": " Bir hastalık belirtisinin gerilemesi, şiddetinin azalması.",
+        "english": ""
+    },
+    {
+        "terim": "REGURJİTASYON",
+        "turkishMeaning": " Yenilen yiyecek ve içeceklerin, kusma olmaksızın ağıza geri gelmesi.",
+        "english": ""
+    },
+    {
+        "terim": "REHABİLİTASYON",
+        "turkishMeaning": " Fiziki hareket kusurlarını düzeltme, yeniden kazandırma.",
+        "english": ""
+    },
+    {
+        "terim": "RELAKSİN",
+        "turkishMeaning": " Gebelik esnasında meydana gelen ve doğum işlevinde gevşetici rol oynayan hormon.",
+        "english": ""
+    },
+    {
+        "terim": "REMİSYON",
+        "turkishMeaning": " Hastalık belirtilerinin sönmesi.",
+        "english": ""
+    },
+    {
+        "terim": "RENAL",
+        "turkishMeaning": " Böbrekle ilgili.",
+        "english": ""
+    },
+    {
+        "terim": "RENAL ARTER",
+        "turkishMeaning": " Böbrek arteri.",
+        "english": ""
+    },
+    {
+        "terim": "REPRODUKTİF",
+        "turkishMeaning": " Çoğalabilen.",
+        "english": ""
+    },
+    {
+        "terim": "RESPİRASYON",
+        "turkishMeaning": " Solunum, nefes almak.",
+        "english": ""
+    },
+    {
+        "terim": "RESPİRATUVAR SİSTEM",
+        "turkishMeaning": " Solunum sistemi.",
+        "english": ""
+    },
+    {
+        "terim": "RETANSİYON",
+        "turkishMeaning": " Birikme, toplanıp kalma. ( Örn. İdrar retansiyonu;idrar tutulması, idrar yapamama.)",
+        "english": ""
+    },
+    {
+        "terim": "RETİKÜLER",
+        "turkishMeaning": " Ağ gibi, ağ biçiminde.",
+        "english": ""
+    },
+    {
+        "terim": "RETİNA",
+        "turkishMeaning": " Gözün en iç tabakası, ağ tabaka.",
+        "english": ""
+    },
+    {
+        "terim": "RETİNİT",
+        "turkishMeaning": " Retina iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "RETROBULBER",
+        "turkishMeaning": " Göz küresinin arka kısmı.",
+        "english": ""
+    },
+    {
+        "terim": "RETROBULBER NÖRİT",
+        "turkishMeaning": " Görme sinirinin, gözün arka kısmındaki bölümünün ani görme kaybı ile karekterize iltihabi durumu.",
+        "english": ""
+    },
+    {
+        "terim": "RETROGRESSİV",
+        "turkishMeaning": " Gerileyen.",
+        "english": ""
+    },
+    {
+        "terim": "RETROPERİTONEAL",
+        "turkishMeaning": " Periton zarının arkasında.",
+        "english": ""
+    },
+    {
+        "terim": "RETROVERSİ",
+        "turkishMeaning": " Bir organın normal konumda değil arkaya doğru eğik durumda olması.",
+        "english": ""
+    },
+    {
+        "terim": "REVASKÜLARİZASYON",
+        "turkishMeaning": " Yeniden damarlanma.",
+        "english": ""
+    },
+    {
+        "terim": "REYNAUD",
+        "turkishMeaning": " Sebebi bilinmeyen, daha çok orta yaşlı kadınlarda rastlanan bir rahatsızlık olup, özellikle soğuğa maruz kalınca parmaklarda morarma ve hissizleşme ile karakterize bir damar rahatsızlığıdır.",
+        "english": ""
+    },
+    {
+        "terim": "REZEKSİYON",
+        "turkishMeaning": " Bir organ veya vücut kısmının bir bölümünün veya tamamının çıkartılması.",
+        "english": ""
+    },
+    {
+        "terim": "REZİDÜ",
+        "turkishMeaning": " Artık, bakiye.",
+        "english": ""
+    },
+    {
+        "terim": "REZİDÜEL",
+        "turkishMeaning": " Kalan, artan. ( Örn. Rezidüel İdrar; İdrar yapıldıktan sonra çıkartılamıyarak geride kalan idrar.)",
+        "english": ""
+    },
+    {
+        "terim": "REZİSTAN",
+        "turkishMeaning": " Mukavim, dirençli.",
+        "english": ""
+    },
+    {
+        "terim": "REZİSTANS",
+        "turkishMeaning": " Direnç, mukavemet.",
+        "english": ""
+    },
+    {
+        "terim": "REZORBSİYON",
+        "turkishMeaning": " Emilme.",
+        "english": ""
+    },
+    {
+        "terim": "SAFRA",
+        "turkishMeaning": " Karaciger tarafından salgılanan, yeşilimsi kahverengi bir sıvıdır.Safra, kısmen yağ sindirimine yarayan bir salgı, kısmende eskimiş alyuvarların tahrip olmaları sonucu oluşmuş bir atılma ürünüdür.",
+        "english": ""
+    },
+    {
+        "terim": "SAFRA KESESİ",
+        "turkishMeaning": " Karaciğerden salgılanan safranın toplandığı, karacigerin alt kısmında bulunan torba şeklinde bir organ-dır.Kesenin görevi, safrayı depolayıp, yoğunlaştırmak, ve gerekli aralıklarla oniki parmak barsağına safra salgılamaktır.",
+        "english": ""
+    },
+    {
+        "terim": "SAK",
+        "turkishMeaning": " Kese, torba.",
+        "english": ""
+    },
+    {
+        "terim": "SAKKÜLER",
+        "turkishMeaning": " Keseye benzer, torba gibi.",
+        "english": ""
+    },
+    {
+        "terim": "SAKRUM",
+        "turkishMeaning": " Kuyruk sokumu.",
+        "english": ""
+    },
+    {
+        "terim": "SAKRALİZASYON",
+        "turkishMeaning": " Beşinci bel omuru ile kuyruk sokumu kemiğinin birleşik olmasına verilen isim.Yapısal bir farklılıktır.",
+        "english": ""
+    },
+    {
+        "terim": "SAKROİLİAK EKLEM",
+        "turkishMeaning": " Sakrumla kalça kemiğinin, sağda ve solda yapmış olduğu eklem.",
+        "english": ""
+    },
+    {
+        "terim": "SADİZM",
+        "turkishMeaning": " Başkalarına acı vermekten cinsel haz duyma.",
+        "english": ""
+    },
+    {
+        "terim": "SADİST",
+        "turkishMeaning": " Başkasına işkence etmekten zevk alan kişi.",
+        "english": ""
+    },
+    {
+        "terim": "SAGİTTAL",
+        "turkishMeaning": " Vücudu sol, sağ şeklinde ortadan ayıran düzlem.",
+        "english": ""
+    },
+    {
+        "terim": "SALİSİLİK ASİT",
+        "turkishMeaning": " Ateş düşürücü etkisi olan ve aspirin yapımında kullanılan bir madde.",
+        "english": ""
+    },
+    {
+        "terim": "SALMONELLA",
+        "turkishMeaning": " Bir bakteri türü.",
+        "english": ""
+    },
+    {
+        "terim": "SALPİNKS",
+        "turkishMeaning": " Tuba uterina, rahimle yumurtalıklar arasındaki geçişi sağlayan, sağlı sollu iki tarafta bulunan tüpler.Tüplerin tıkalı olması kısırlığa neden olur.",
+        "english": ""
+    },
+    {
+        "terim": "SALPENJİT",
+        "turkishMeaning": " Tuba uterinaların iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "SEDASYON",
+        "turkishMeaning": " Hastanın sakinleştirilmesi.",
+        "english": ""
+    },
+    {
+        "terim": "SİMPLEKS",
+        "turkishMeaning": " Tek maddeden oluşmuş, basit, sade.",
+        "english": ""
+    },
+    {
+        "terim": "SİNÜZİT",
+        "turkishMeaning": " Sinüs adı verilen yüzdeki kemik boşlukların iç yüzünü kaplayan mukoza iltihabına ve boşlukta cerahat toplanmasına sinüzit adı verilir. Bkz. Detaylı Bilgi",
+        "english": ""
+    },
+    {
+        "terim": "SİROZ",
+        "turkishMeaning": " Bir organda sertleşme ve nedbeleşme ile karakterize fibröz doku oluşumuna verilen isimdir. Ancak bu terim hemen her zaman karaciğerin görevini yapamamasıyla ilgili, kronik karaciğer iltihabı için kullanılır.",
+        "english": ""
+    },
+    {
+        "terim": "SİTOLOJİ",
+        "turkishMeaning": " Hücre bilimi.",
+        "english": ""
+    },
+    {
+        "terim": "SKOLYOZ (SKOLİOSİS)",
+        "turkishMeaning": " Omurganın sağ veya sola doğru eğrilikleri ile karakterize şekil bozukluğu.",
+        "english": ""
+    },
+    {
+        "terim": "STERNUM",
+        "turkishMeaning": " İman kemiği.",
+        "english": ""
+    },
+    {
+        "terim": "SUBKARİNAL",
+        "turkishMeaning": " Karinanın altında. (Karina",
+        "english": ""
+    },
+    {
+        "terim": "SUBPLEVRAL",
+        "turkishMeaning": " Akciğer zarının altında.",
+        "english": ""
+    },
+    {
+        "terim": "SÜT BEZESİ",
+        "turkishMeaning": " Meme dokusu içerisindeki süt üreten bezler.",
+        "english": ""
+    },
+    {
+        "terim": "TABES DORSALİS",
+        "turkishMeaning": " Sfilizin ilerlemiş döneminde sinir sistemi tutulumuna bağlı olarak dengesizlik, yürüme güçlüğü görme bozuklukları ile seyreden tabloya verilen isimdir.",
+        "english": ""
+    },
+    {
+        "terim": "TALAMUS",
+        "turkishMeaning": " Orta beyindeki bir cekirdek grubuna verilen addır.",
+        "english": ""
+    },
+    {
+        "terim": "TALASEMİ",
+        "turkishMeaning": " Kalıtsal bir kan hastalığıdır.akdeniz kıyılarında yaşayanlarda daha sık görülür.",
+        "english": ""
+    },
+    {
+        "terim": "TAKİPNE",
+        "turkishMeaning": " Çok hızlı solunum.",
+        "english": ""
+    },
+    {
+        "terim": "TARTAR",
+        "turkishMeaning": " Diş taşı.",
+        "english": ""
+    },
+    {
+        "terim": "TELENJEKTAZİ",
+        "turkishMeaning": " Deride veya mukozalarda kırmızı lekeler şeklinde görülen kılcal, arteriol ve venüllerin genişlemesinden oluşan lezyonlar.",
+        "english": ""
+    },
+    {
+        "terim": "TELEKARDİOFON",
+        "turkishMeaning": " Kalp seslerini hastadan uzakta dinleten alet.",
+        "english": ""
+    },
+    {
+        "terim": "TELEPATİ",
+        "turkishMeaning": " Beş duyu işe karışmaksızın düşüncelerin, bu duyuların üstünde bir yolla aktarılması.",
+        "english": ""
+    },
+    {
+        "terim": "TEMPORAL BÖLGE",
+        "turkishMeaning": " Şakak bölgesi.",
+        "english": ""
+    },
+    {
+        "terim": "TENDİNİT",
+        "turkishMeaning": " Tendon iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "TENDON",
+        "turkishMeaning": " Kasların kemiklere yapışmasını sağlayan yapılar.",
+        "english": ""
+    },
+    {
+        "terim": "TENESMUS",
+        "turkishMeaning": " Rektum veya mesanenin iltihaplı durumlarında görülen, ağrılı işeme veya defekasyon duygusu.",
+        "english": ""
+    },
+    {
+        "terim": "TENYA",
+        "turkishMeaning": " Barsak paraziti, şerit, yassı solucan.",
+        "english": ""
+    },
+    {
+        "terim": "TESTOSTERON",
+        "turkishMeaning": " Erkek seks hormonuna verilen addır.",
+        "english": ""
+    },
+    {
+        "terim": "TREMOR",
+        "turkishMeaning": " İrade dışı titremelere verilen addır. Örneğin, Hipertiroidi (Tiroid bezinin fazla çalışması) adı verilen rahatsızlıkta ellerde görülen ince amplitüdlü titremelere tremor adı verildiği gibi, Parkinson da görülen kaba ve büyük amplitüdlü titremelere de tremor denir.",
+        "english": ""
+    },
+    {
+        "terim": "TROMBOZ",
+        "turkishMeaning": " Kan damarlarının pıhtı veya ateron (kolesterol) plakları oluşarak tıkanmasıdır.",
+        "english": ""
+    },
+    {
+        "terim": "ULCUS",
+        "turkishMeaning": " Bkz.ülser",
+        "english": ""
+    },
+    {
+        "terim": "ULNA",
+        "turkishMeaning": " Önkolun iki kemiğinden içte (serçe parmağı tarafında) bulunanıdır.",
+        "english": ""
+    },
+    {
+        "terim": "ULTRASOUND",
+        "turkishMeaning": " İnsan kulağının duyamıyacağı kadar yüksek frekanslı ses dalgaları.Ultra-ses.",
+        "english": ""
+    },
+    {
+        "terim": "ULTRASONOGRAFİ",
+        "turkishMeaning": " Ultra-ses kullanılarak elde edilen görüntüler.Bir çok hastalığın ön teşhisinde kullanılan, ancak daha çok karın organları gibi ses dalgalarının kolayca geçebileceği konumdaki organların tetkikinde etkili bir inceleme yöntemidir.Şua söz konusu değildir.",
+        "english": ""
+    },
+    {
+        "terim": "ULTRAVİOLE",
+        "turkishMeaning": " Dalga boyu 2000-4000 arası olan mor ötesi ışınlar.",
+        "english": ""
+    },
+    {
+        "terim": "UTERUS",
+        "turkishMeaning": " Rahim, döl yatağı.",
+        "english": ""
+    },
+    {
+        "terim": "UTERUS BİCORNİS",
+        "turkishMeaning": " Uterusun iki boynuzlu olması anlamında bir terimdir.Uterusun üst kısmının çökük olması nedeniyle her iki uç kısımlarının beligin hal alması sonucu ortaya çıkan görünümdür.",
+        "english": ""
+    },
+    {
+        "terim": "UVULA",
+        "turkishMeaning": " Küçük dil.",
+        "english": ""
+    },
+    {
+        "terim": "ÜLSER",
+        "turkishMeaning": " Geniş anlamıyla deri ya da mukoza altı dokuları meydanda bırakan kronik yaralardır.",
+        "english": ""
+    },
+    {
+        "terim": "ÜLSERATİF KOLİT",
+        "turkishMeaning": " Kalın barsakla rektumun, kronik iltihabı ve ülserasyonudur.",
+        "english": ""
+    },
+    {
+        "terim": "ÜREMİ",
+        "turkishMeaning": " Kandaki üre oranının normalin üzerinde olması halidir.",
+        "english": ""
+    },
+    {
+        "terim": "ÜRETER",
+        "turkishMeaning": " Böbreklerle idrar torbasını birleştiren, idrarın torbaya ulaşımını sağlayan tüptür.Her iki tarafta birbirinden bağlantısız olarak bulunur.",
+        "english": ""
+    },
+    {
+        "terim": "ÜRETRA",
+        "turkishMeaning": " İdrarın dışarıya atılmasını sağlayan ve ıdrar torbasından sonraki idrar yoluna verilen isim.",
+        "english": ""
+    },
+    {
+        "terim": "ÜRETRİT",
+        "turkishMeaning": " Üretranın iltihabıdır.",
+        "english": ""
+    },
+    {
+        "terim": "ÜROLOJİ",
+        "turkishMeaning": " Kadın ve erkeklerdeki idrar yolları ve üreme sistemleri ile ilgili hastalıkları inceleyen bilim dalıdır.Bevliye.",
+        "english": ""
+    },
+    {
+        "terim": "ÜRTİKER",
+        "turkishMeaning": " Hassasiyet sonucu ortaya çıkan deri döküntüleri ve kaşıntı ile belirgin bir durumdur.",
+        "english": ""
+    },
+    {
+        "terim": "ÜRİN",
+        "turkishMeaning": " İdrar.",
+        "english": ""
+    },
+    {
+        "terim": "ÜROGENİTAL",
+        "turkishMeaning": " Genital ve idrar yolları sistemi ile ilgili.",
+        "english": ""
+    },
+    {
+        "terim": "ÜROGRAFİ",
+        "turkishMeaning": " Damardan kontrast madde verilerek böbrekler,idrar torbası ve idrar yollarının belirli zaman aralıkları ile filmlerinin çekilmesidir.Üriner sistem hakkında teşhis amaçlı yapılan işlemdir.",
+        "english": ""
+    },
+    {
+        "terim": "VAGOTOMİ",
+        "turkishMeaning": " Vagus sinirinin etkisini ortadan kaldırmak amacıyla dallarından birisinin kesilmesidir.",
+        "english": ""
+    },
+    {
+        "terim": "VAGUS",
+        "turkishMeaning": " Nervus Vagus onuncu kafa siniridir, kafatasından çıktıktan sonra mide , barsak sisteminin bir kısmına, kalp ve akcigerlere dallar verir.Bu sistemlerin fonksiyonlarında önemli rol oynayan bir sinirdir.",
+        "english": ""
+    },
+    {
+        "terim": "VAJEN",
+        "turkishMeaning": " Kadın cinsel organı.",
+        "english": ""
+    },
+    {
+        "terim": "VAJİNİT",
+        "turkishMeaning": " Vajina iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "VAKSIN",
+        "turkishMeaning": " Aşı, Bkz.aşı çeşitleri; attenüe, otojen, BCG, polivalen, sabin, salk.",
+        "english": ""
+    },
+    {
+        "terim": "VARİS",
+        "turkishMeaning": " Kirli kan taşıyan damarların, fonksiyonel bozuklukları sonucu ya da kan akımının önündeki bir engel nedeniyle genişliyerek kıvrımlı bir hal almasıdır.Yüzeyel olduğu gibi derin venlerde de varis gelişebilir.",
+        "english": ""
+    },
+    {
+        "terim": "VARİKOSEL",
+        "turkishMeaning": " Erkeklerde spermatik kordon venlerinin genişlemesi sonucu torbalar içersinde varis oluşumu.",
+        "english": ""
+    },
+    {
+        "terim": "VASKÜLİT",
+        "turkishMeaning": " Damar iltihabı.",
+        "english": ""
+    },
+    {
+        "terim": "VAZODİLATASYON",
+        "turkishMeaning": " Damar genişlemesi.",
+        "english": ""
+    },
+    {
+        "terim": "VAZODİLATATÖR",
+        "turkishMeaning": " Damar genişletici etkiye sahip ilaç, madde.",
+        "english": ""
+    },
+    {
+        "terim": "VAZOKONSTRÜKSİYON",
+        "turkishMeaning": " Damarları büzülmesi, kasılması.",
+        "english": ""
+    },
+    {
+        "terim": "VAZOKONSTRÜKTÖR",
+        "turkishMeaning": " Damarları büzen etkiye sahip ilaç, madde.",
+        "english": ""
+    },
+    {
+        "terim": "VAZOSPAZM",
+        "turkishMeaning": " Damar kasılması, büzülmesi.",
+        "english": ""
+    },
+    {
+        "terim": "VEJETERYAN",
+        "turkishMeaning": " Bitkisel gıdalarla beslenen, etyemez.",
+        "english": ""
+    },
+    {
+        "terim": "VEN",
+        "turkishMeaning": " Kirli kanı kalbe taşıyan damarlar.",
+        "english": ""
+    },
+    {
+        "terim": "VERTİGO",
+        "turkishMeaning": " Genel anlamda baş dönmesi, hareket duygusu demektir. Ancak tansiyon düşmesi ile ilgili baş dönmeleri bu kapsamda değildir. Vertigodan kastedilen labirentit, iç kulak iltihabı, Meniere hastalığı gibi durumlarda olan baş dönmesi hissi Vertigo diye adlandırılır.",
+        "english": ""
+    },
+    {
+        "terim": "VİTİLİGO",
+        "turkishMeaning": " Bir cilt hastalığı olup, vücudun çeşitli bölgelerinde, yer yer renk (pigment) kaybı ile karakterize, normal bölgelerden keskin sınırlarla ayrılan beyaz lekeler. Bkz. Resim",
+        "english": ""
+    },
+    {
+        "terim": "YABANCI CİSİMLER",
+        "turkishMeaning": " Vücudun belirli bir yerinde, normalde bulunmayan her hangi bir madde yabancı cisimdir. Bunlara özellikle çocuklarda, barsaklar, kulak ve burunda rastlanır. Yutulan yabancı cisimler, yemek borusunda takılabilir, ya da tehlikeli olabilir.Bu nedenle bazen ameliyatla çıkartılmaları gerekebilir.",
+        "english": ""
+    },
+    {
+        "terim": "YAĞ EMBOLİSİ",
+        "turkishMeaning": " Büyük kemik kırıklarında görülebilen bir komplikasyondur. Kemik iliğindeki yağın bir kısmı açığa çıkar ve yağ damlaları kan dolaşımına karışıp damar tıkanmasına neden olur.",
+        "english": ""
+    },
+    {
+        "terim": "YAĞLI DEJENERASYON",
+        "turkishMeaning": " En çok kalp, karaciğer ve böbreklerde görülür. Bu organlarda, hücreler normal çalışma yeteneklerini kaybederler ve içlerinde yağ tanecikleri birikir.",
+        "english": ""
+    },
+    {
+        "terim": "YALANCI GEBELİK",
+        "turkishMeaning": " Tüm gebelik belirtilerinin olmasına rağmen, uterus boştur. Bu duruma yalancı gebelik denir. Daha çok psikolojik menşelidir.",
+        "english": ""
+    }
+]
+
+}
